@@ -1,0 +1,122 @@
+name: Generate Conference Calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"  # Run daily at 1 AM UTC
+  push:
+    branches:
+      - dev
+
+permissions:
+  contents: write
+
+jobs:
+  generate-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout current repository
+      uses: actions/checkout@v4
+      
+    - name: Clone ccf-deadlines repository
+      run: |
+        git clone --depth 1 https://github.com/ccfddl/ccf-deadlines.git ccf-deadlines-repo
+        cd ccf-deadlines-repo
+        
+    - name: Copy custom conversion script
+      run: |
+        # Copy the custom convert_to_ical_diy.py script to the cloned repository
+        cp convert_to_ical_diy.py ccf-deadlines-repo/cli/ccfddl/
+        # Make sure the script has execute permissions
+        chmod +x ccf-deadlines-repo/cli/ccfddl/convert_to_ical_diy.py
+        
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install Python dependencies
+      run: |
+        cd ccf-deadlines-repo
+        python -m pip install --upgrade pip
+        python -m pip install PyYAML jsonschema icalendar xlin
+        
+    - name: Validate yml files
+      run: |
+        cd ccf-deadlines-repo
+        python ./scripts/validate.py
+        
+    - name: Assemble yml files
+      run: |
+        cd ccf-deadlines-repo
+        mkdir -p public/conference && cd public/conference
+        awk 1 `find ../../conference -name '*.yml' -not -path '**/types.yml'` > allconf.yml
+        awk 1 `find ../../accept_rates -name '*.yml'` > allacc.yml
+        cp ../../conference/types.yml .
+        cd ../..
+        
+    - name: Generate iCal files
+      run: |
+        cd ccf-deadlines-repo
+        # Use the custom convert_to_ical_diy.py script that we copied
+        python cli/ccfddl/convert_to_ical_diy.py --conf ${{ vars.CONFERENCES_NAME }}
+        
+    - name: Copy generated files to workspace
+      run: |
+        cd ccf-deadlines-repo
+        # Copy any generated .ics files to the main workspace
+        find . -name "*.ics" -exec cp {} ../ \;
+        cd ..
+        ls -la *.ics || echo "No .ics files found"
+        
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+    
+    - name: Fetch all branches
+      run: git fetch origin --all || true
+
+    - name: Checkout or create release branch
+      run: |
+        # Backup any generated iCal files
+        mkdir -p /tmp/ics-backup
+        find . -maxdepth 1 -name "*.ics" -exec cp {} /tmp/ics-backup/ \; || true
+        
+        # Remove the cloned repository to avoid conflicts
+        rm -rf ccf-deadlines-repo
+        
+        # Clean working directory
+        git clean -fd
+        
+        # Check if release branch exists remotely
+        if git ls-remote --heads origin release | grep -q release; then
+          echo "Release branch exists, checking out..."
+          git checkout release
+          git pull origin release || true
+        else
+          echo "Creating new release branch..."
+          git checkout --orphan release
+          git rm -rf . || true
+        fi
+        
+        # Restore the iCal files
+        if [ -d "/tmp/ics-backup" ]; then
+          cp /tmp/ics-backup/*.ics . 2>/dev/null || echo "No .ics files to restore"
+        fi
+        
+    - name: Commit and push iCal files
+      run: |
+        # Add all .ics files
+        git add *.ics 2>/dev/null || echo "No .ics files to add"
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "📆: update conference calendar - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push origin HEAD:release
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
