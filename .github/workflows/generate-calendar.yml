@@ -93,8 +93,8 @@ jobs:
         # Check if release branch exists remotely
         if git ls-remote --heads origin release | grep -q release; then
           echo "Release branch exists, checking out..."
-          git checkout release
-          git pull origin release || true
+          git fetch origin release
+          git checkout -B release origin/release
         else
           echo "Creating new release branch..."
           git checkout --orphan release
