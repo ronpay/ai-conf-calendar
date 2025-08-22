@@ -273,7 +273,7 @@ def main():
 
     # Change to the root directory of the project
     script_dir = Path(__file__).parent
-    root_dir = script_dir.parent.parent
+    root_dir = script_dir.parent.parent.parent
     os.chdir(root_dir)
 
     # Load category mapping
