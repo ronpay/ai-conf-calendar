@@ -269,7 +269,7 @@ def main():
 
     args = parser.parse_args()
 
-    args.conf = [c for conf in args.conf for c in re.split(r"[,\s]+", conf.strip()) if c]
+    args.conf = [c.strip() for conf in args.conf for c in re.split(r"[,]+", conf.strip()) if c]
 
     # Change to the root directory of the project
     script_dir = Path(__file__).parent
