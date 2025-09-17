@@ -27,9 +27,9 @@ jobs:
     - name: Copy custom conversion script
       run: |
         # Copy the custom convert_to_ical_diy.py script to the cloned repository
-        cp convert_to_ical_diy.py ccf-deadlines-repo/add_ons/cli/ccfddl/
+        cp convert_to_ical_diy.py ccf-deadlines-repo/extensions/cli/ccfddl/
         # Make sure the script has execute permissions
-        chmod +x ccf-deadlines-repo/add_ons/cli/ccfddl/convert_to_ical_diy.py
+        chmod +x ccf-deadlines-repo/extensions/cli/ccfddl/convert_to_ical_diy.py
         
     - name: Set up Python 3.9
       uses: actions/setup-python@v4
@@ -60,7 +60,7 @@ jobs:
       run: |
         cd ccf-deadlines-repo
         # Use the custom convert_to_ical_diy.py script that we copied
-        python add_ons/cli/ccfddl/convert_to_ical_diy.py --conf ${{ vars.CONFERENCES_NAME }}
+        python extensions/cli/ccfddl/convert_to_ical_diy.py --conf ${{ vars.CONFERENCES_NAME }}
         
     - name: Copy generated files to workspace
       run: |
