@@ -58,8 +58,16 @@ def create_vtimezone(tz: timezone) -> Timezone:
 
 def find_conference_files(conf_names: list[str], conference_dir: str = "conference"):
     """Find conference files matching the given conference names"""
+    # Conference aliases mapping (user input -> actual conference title)
+    CONFERENCE_ALIASES = {
+        "nips": "neurips",  # NIPS is now called NeurIPS
+    }
+
     found_files = []
     conf_names_lower = [name.lower() for name in conf_names]
+
+    # Apply aliases
+    conf_names_lower = [CONFERENCE_ALIASES.get(name, name) for name in conf_names_lower]
 
     # Walk through all conference directories
     for root, dirs, files in os.walk(conference_dir):
@@ -88,8 +96,16 @@ def find_conference_files(conf_names: list[str], conference_dir: str = "conferen
 
 def filter_conferences_by_name(file_paths: list[str], conf_names: list[str]):
     """Filter conferences by name from the given file paths"""
+    # Conference aliases mapping (user input -> actual conference title)
+    CONFERENCE_ALIASES = {
+        "nips": "neurips",  # NIPS is now called NeurIPS
+    }
+
     filtered_data = []
     conf_names_lower = [name.lower() for name in conf_names]
+
+    # Apply aliases
+    conf_names_lower = [CONFERENCE_ALIASES.get(name, name) for name in conf_names_lower]
 
     for file_path in file_paths:
         try:
