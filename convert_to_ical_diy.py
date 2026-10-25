@@ -14,6 +14,14 @@ from pathlib import Path
 import yaml
 from icalendar import Calendar, Event, Timezone, TimezoneStandard
 
+# Timeline keys exported as events: key -> (Chinese label, English label)
+DEADLINE_TYPES = {
+    "abstract_deadline": ("摘要截稿", "Abstract Deadline"),
+    "deadline": ("论文截稿", "Paper Deadline"),
+    "rebuttal_deadline": ("Rebuttal截止", "Rebuttal Deadline"),
+    "decision_deadline": ("录用通知", "Decision Notification"),
+}
+
 
 def load_mapping(path: str = "conference/types.yml"):
     """Load category mapping from types.yml"""
@@ -148,11 +156,7 @@ def convert_conferences_to_ical(
             date = conf["date"]
 
             for entry in timeline:
-                deadline_list = []
-                if "abstract_deadline" in entry:
-                    deadline_list.append("abstract_deadline")
-                if "deadline" in entry:
-                    deadline_list.append("deadline")
+                deadline_list = [key for key in DEADLINE_TYPES if key in entry]
                 for deadline_key in deadline_list:
                     try:
                         tz = get_timezone(timezone_str)
@@ -170,15 +174,8 @@ def convert_conferences_to_ical(
                         added_tzids.add(tzid)
 
                     # Determine deadline type
-                    deadline_type, deadline_str = None, None
-                    if deadline_key == "abstract_deadline":
-                        deadline_type = ("摘要截稿", "Abstract Deadline")
-                        deadline_str = entry["abstract_deadline"]
-                    elif deadline_key == "deadline":
-                        deadline_type = ("截稿日期", "Deadline")
-                        deadline_str = entry["deadline"]
-                    else:
-                        continue  # Skip invalid entries
+                    deadline_type = DEADLINE_TYPES[deadline_key]
+                    deadline_str = entry[deadline_key]
 
                     if deadline_str == "TBD":
                         continue  # Ignore TBD dates
