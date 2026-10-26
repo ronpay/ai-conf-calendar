@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - name: Checkout current repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       
     - name: Clone ccf-deadlines repository
       run: |
@@ -31,10 +31,10 @@ jobs:
         # Make sure the script has execute permissions
         chmod +x ccf-deadlines-repo/extensions/cli/ccfddl/convert_to_ical_diy.py
         
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v4
+    - name: Set up Python
+      uses: actions/setup-python@v7
       with:
-        python-version: '3.9'
+        python-version: '3.12'
         
     - name: Install Python dependencies
       run: |
