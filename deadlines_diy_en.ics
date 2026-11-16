@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2021 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20201012T235959
 DTEND;TZID="UTC-12:00":20201013T000059
-DTSTAMP:20261115T073556Z
-UID:e0a1233f-512d-4c61-b1a4-188ac9794f90
+DTSTAMP:20261116T074139Z
+UID:c31d09e9-e06f-40a4-aa18-62a3fbc58ad4
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: April 
  19-23\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 2020-10
  -12 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THCPL
@@ -28,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20201019T235959
 DTEND;TZID="UTC-12:00":20201020T000059
-DTSTAMP:20261115T073556Z
-UID:7fea0bcb-7dbe-4a24-bea1-3f34c965b79d
+DTSTAMP:20261116T074139Z
+UID:b7114d45-348e-4c38-863c-d552e5ec241f
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: April 
  19-23\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 2020-10
  -19 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THCPL
@@ -42,8 +42,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2022 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20211014T235959
 DTEND;TZID="UTC-12:00":20211015T000059
-DTSTAMP:20261115T073556Z
-UID:32da071b-df59-4c27-9e2b-5f0e05e92a4a
+DTSTAMP:20261116T074139Z
+UID:4c414438-6616-40e4-873f-dd71cad67c05
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: April 
  27-29\, 2022\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 2021-10
  -14 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THCPL
@@ -56,8 +56,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2022 Paper Deadline
 DTSTART;TZID="UTC-12:00":20211021T235959
 DTEND;TZID="UTC-12:00":20211022T000059
-DTSTAMP:20261115T073556Z
-UID:80032dd3-c199-4ce3-a470-faacef0c89cb
+DTSTAMP:20261116T074139Z
+UID:81161a2f-5dec-48b2-bdf7-614b298ba67c
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: April 
  27-29\, 2022\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 2021-10
  -21 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THCPL
@@ -70,8 +70,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2023 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20221006T235959
 DTEND;TZID="UTC-12:00":20221007T000059
-DTSTAMP:20261115T073556Z
-UID:94588a57-eb59-49c1-a5bf-46728db7a1be
+DTSTAMP:20261116T074139Z
+UID:62a81b24-ca58-489b-a29f-9dd5383fc98e
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 2-
  4\, 2023\n📍 Location: Austin\, Texas\, USA\n⏰ Original Deadline (AoE)
  : 2022-10-06 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A
@@ -84,8 +84,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20221013T235959
 DTEND;TZID="UTC-12:00":20221014T000059
-DTSTAMP:20261115T073556Z
-UID:4fb59031-4903-459f-ae94-aeec9014100d
+DTSTAMP:20261116T074139Z
+UID:71f19bd1-017a-41f3-8608-fae7be21b034
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 2-
  4\, 2023\n📍 Location: Austin\, Texas\, USA\n⏰ Original Deadline (AoE)
  : 2022-10-13 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A
@@ -98,8 +98,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20231005T235959
 DTEND;TZID="UTC-12:00":20231006T000059
-DTSTAMP:20261115T073556Z
-UID:95057a12-8e73-4081-a9c0-a6c93252fcd2
+DTSTAMP:20261116T074139Z
+UID:fdd9658d-cc9d-4e2f-a17f-57e4adf9f69f
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 15
  -17\, 2024\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2023-10
  -05 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THCPL
@@ -112,8 +112,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20231012T235959
 DTEND;TZID="UTC-12:00":20231013T000059
-DTSTAMP:20261115T073556Z
-UID:ae2b7606-8165-4d3a-b1b7-8c6efca4ccee
+DTSTAMP:20261116T074139Z
+UID:8d2879cc-34cf-4f5b-b0a6-b771b4e96846
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 15
  -17\, 2024\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2023-10
  -12 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THCPL
@@ -126,8 +126,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2025 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20241007T235959
 DTEND;TZID="UTC-12:00":20241008T000059
-DTSTAMP:20261115T073556Z
-UID:f3595452-48d8-4a0a-bf64-b095d9a9f603
+DTSTAMP:20261116T074139Z
+UID:3d773207-d5c5-4a90-9005-1f607a790f24
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: April 
  30 - May 2\, 2025\n📍 Location: Sydney\, Australia\n⏰ Original Deadlin
  e (AoE): 2024-10-07 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\,
@@ -140,8 +140,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2025 Paper Deadline
 DTSTART;TZID="UTC-12:00":20241014T235959
 DTEND;TZID="UTC-12:00":20241015T000059
-DTSTAMP:20261115T073556Z
-UID:14672eb2-2ee9-42f6-99d2-790a0d68ede6
+DTSTAMP:20261116T074139Z
+UID:472b0adb-550e-4578-bc46-7c091a53dcb0
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: April 
  30 - May 2\, 2025\n📍 Location: Sydney\, Australia\n⏰ Original Deadlin
  e (AoE): 2024-10-14 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\,
@@ -154,8 +154,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20250930T235959
 DTEND;TZID="UTC-12:00":20251001T000059
-DTSTAMP:20261115T073556Z
-UID:62ccc794-6afc-47b7-8c97-17e95c780c31
+DTSTAMP:20261116T074139Z
+UID:fcedd60c-8131-4cdb-9f78-64a41a17b934
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: July 1
  -3\, 2026\n📍 Location: Dubaï\, UAE\n⏰ Original Deadline (AoE): 2025-
  09-30 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THC
@@ -168,8 +168,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20251007T235959
 DTEND;TZID="UTC-12:00":20251008T000059
-DTSTAMP:20261115T073556Z
-UID:42e74dd6-51aa-404f-b086-32485f3d377c
+DTSTAMP:20261116T074139Z
+UID:1c707ff1-eb18-4dca-b1ef-a3da889b01f4
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: July 1
  -3\, 2026\n📍 Location: Dubaï\, UAE\n⏰ Original Deadline (AoE): 2025-
  10-07 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, THC
@@ -182,8 +182,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2027 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20261018T235959
 DTEND;TZID="UTC-12:00":20261019T000059
-DTSTAMP:20261115T073556Z
-UID:0e1533c8-4835-4dd3-9602-0978010db07e
+DTSTAMP:20261116T074139Z
+UID:f30cae12-7c4e-460f-8f1c-c0cc6485ab84
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 10
   - 14\, 2027\n📍 Location: Dublin\, Ireland\n⏰ Original Deadline (AoE)
  : 2026-10-18 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A
@@ -196,8 +196,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20261025T235959
 DTEND;TZID="UTC-12:00":20261026T000059
-DTSTAMP:20261115T073556Z
-UID:79a6780a-1778-4c62-b46a-52dbe3833eea
+DTSTAMP:20261116T074139Z
+UID:f361dcca-7c56-4820-980a-9de40f749338
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 10
   - 14\, 2027\n📍 Location: Dublin\, Ireland\n⏰ Original Deadline (AoE)
  : 2026-10-25 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A
@@ -210,8 +210,8 @@ BEGIN:VEVENT
 SUMMARY:WWW 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20270104T235959
 DTEND;TZID="UTC-12:00":20270105T000059
-DTSTAMP:20261115T073556Z
-UID:4ed6d59b-fd9f-40d0-82a7-32057a7c5e8a
+DTSTAMP:20261116T074139Z
+UID:438375d3-adf6-48e5-ad45-a56440b1127a
 DESCRIPTION:International World Wide Web Conferences\n🗓️ Date: May 10
   - 14\, 2027\n📍 Location: Dublin\, Ireland\n⏰ Original Deadline (AoE)
  : 2027-01-04 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A
@@ -233,8 +233,8 @@ BEGIN:VEVENT
 SUMMARY:ICCV 2021 Abstract Deadline
 DTSTART;TZID="UTC-07:00":20210311T005900
 DTEND;TZID="UTC-07:00":20210311T010000
-DTSTAMP:20261115T073556Z
-UID:dbfb9a4e-f38e-4472-bb7f-f7c3a8f6a448
+DTSTAMP:20261116T074139Z
+UID:392b8796-7d00-4da8-8ae4-a102e16d4c65
 DESCRIPTION:IEEE International Conference on Computer Vision\n🗓️ Date
  : October 12-15\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC
  -7): 2021-03-11 00:59:00\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, T
@@ -247,8 +247,8 @@ BEGIN:VEVENT
 SUMMARY:ICCV 2021 Paper Deadline
 DTSTART;TZID="UTC-07:00":20210317T235959
 DTEND;TZID="UTC-07:00":20210318T000059
-DTSTAMP:20261115T073556Z
-UID:abf1c465-9ec0-4c7f-b4a8-ae64e9439558
+DTSTAMP:20261116T074139Z
+UID:bfebe3e1-fbb9-44a7-9e9f-46c064f24b9a
 DESCRIPTION:IEEE International Conference on Computer Vision\n🗓️ Date
  : October 12-15\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC
  -7): 2021-03-17 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, T
@@ -270,8 +270,8 @@ BEGIN:VEVENT
 SUMMARY:ICCV 2023 Paper Deadline
 DTSTART:20230308T235959Z
 DTEND:20230309T000059Z
-DTSTAMP:20261115T073556Z
-UID:d09da817-0bfc-45b7-9897-ea3ac2caf72d
+DTSTAMP:20261116T074139Z
+UID:6a6de482-7666-4476-9756-a26e8b2383e3
 DESCRIPTION:IEEE International Conference on Computer Vision\n🗓️ Date
  : October 4-6\, 2023\n📍 Location: Paris\n⏰ Original Deadline (UTC+0):
   2023-03-08 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL
@@ -284,8 +284,8 @@ BEGIN:VEVENT
 SUMMARY:ICCV 2025 Abstract Deadline
 DTSTART:20250304T095959Z
 DTEND:20250304T100059Z
-DTSTAMP:20261115T073556Z
-UID:0e9cfd0b-b893-48a6-a2c2-67364b950991
+DTSTAMP:20261116T074139Z
+UID:c7357264-3985-4977-863d-41d7e5e5ae4f
 DESCRIPTION:IEEE International Conference on Computer Vision\n🗓️ Date
  : October 21-23\, 2025\n📍 Location: Honolulu\, Hawaii (Hybrid)\n⏰ Ori
  ginal Deadline (UTC+0): 2025-03-04 09:59:59\nCategory: 人工智能 (AI)\n
@@ -298,8 +298,8 @@ BEGIN:VEVENT
 SUMMARY:ICCV 2025 Paper Deadline
 DTSTART:20250308T095959Z
 DTEND:20250308T100059Z
-DTSTAMP:20261115T073556Z
-UID:8741a3bb-4c40-457b-93e0-36a3d3d6e971
+DTSTAMP:20261116T074139Z
+UID:ee11ef73-0243-42bc-98aa-4470461f3e34
 DESCRIPTION:IEEE International Conference on Computer Vision\n🗓️ Date
  : October 21-23\, 2025\n📍 Location: Honolulu\, Hawaii (Hybrid)\n⏰ Ori
  ginal Deadline (UTC+0): 2025-03-08 09:59:59\nCategory: 人工智能 (AI)\n
@@ -312,8 +312,8 @@ BEGIN:VEVENT
 SUMMARY:ICML 2021 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20210128T235959
 DTEND;TZID="UTC-12:00":20210129T000059
-DTSTAMP:20261115T073556Z
-UID:2ec2a38f-3549-46fd-b27a-91efcdd25074
+DTSTAMP:20261116T074139Z
+UID:746b7482-735f-4cdc-a680-d21f3b49bc41
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 18-24\, 2021\n📍 Location: Virtual conference\n⏰ Original Deadline 
  (UTC-12): 2021-01-28 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A
@@ -326,8 +326,8 @@ BEGIN:VEVENT
 SUMMARY:ICML 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20210204T235959
 DTEND;TZID="UTC-12:00":20210205T000059
-DTSTAMP:20261115T073556Z
-UID:0e673335-281c-42ee-8ae7-58db60351b9c
+DTSTAMP:20261116T074139Z
+UID:b805c674-d611-424a-a8af-e0758f06530d
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 18-24\, 2021\n📍 Location: Virtual conference\n⏰ Original Deadline 
  (UTC-12): 2021-02-04 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A
@@ -341,8 +341,8 @@ SUMMARY:ICML 2022 Abstract Deadline [Mandatory abstract deadline on Jan 20
  \, 2022.]
 DTSTART;TZID="UTC-12:00":20220120T235959
 DTEND;TZID="UTC-12:00":20220121T000059
-DTSTAMP:20261115T073556Z
-UID:698341c1-dadc-4364-bdb7-9fcfd3aec0ba
+DTSTAMP:20261116T074139Z
+UID:b6abffe8-fe78-4a08-b541-eb6dca9f8940
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 17-23\, 2022\n📍 Location: Baltimore\, Maryland USA\n⏰ Original Dea
  dline (UTC-12): 2022-01-20 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, 
@@ -356,8 +356,8 @@ SUMMARY:ICML 2022 Paper Deadline [Mandatory abstract deadline on Jan 20\,
  2022.]
 DTSTART;TZID="UTC-12:00":20220127T235959
 DTEND;TZID="UTC-12:00":20220128T000059
-DTSTAMP:20261115T073556Z
-UID:c26439e1-feda-4c33-990e-f62cff811084
+DTSTAMP:20261116T074139Z
+UID:18025972-856d-4e79-abd1-cd6474bcd90b
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 17-23\, 2022\n📍 Location: Baltimore\, Maryland USA\n⏰ Original Dea
  dline (UTC-12): 2022-01-27 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, 
@@ -371,8 +371,8 @@ SUMMARY:ICML 2023 Paper Deadline [Single paper deadline at 15:00 EST\; no
  separate abstract deadline.]
 DTSTART;TZID="UTC-12:00":20230126T075959
 DTEND;TZID="UTC-12:00":20230126T080059
-DTSTAMP:20261115T073556Z
-UID:ceadb23b-bd75-497b-a2cf-1f99e6f7230e
+DTSTAMP:20261116T074139Z
+UID:1a6f4a31-ec1f-453a-acee-284593d1ad15
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 23-29\, 2023\n📍 Location: Hawaii Convention Center\,Hawaii\, USA\n
  ⏰ Original Deadline (UTC-12): 2023-01-26 07:59:59\nCategory: 人工智
@@ -386,8 +386,8 @@ SUMMARY:ICML 2024 Paper Deadline [Paper Submissions Open on OpenReview Jan
   09 2024 02:00 PM UTC]
 DTSTART;TZID="UTC-12:00":20240201T235959
 DTEND;TZID="UTC-12:00":20240202T000059
-DTSTAMP:20261115T073556Z
-UID:a9a212d8-3e7a-4585-b7c3-6913e6dc6040
+DTSTAMP:20261116T074139Z
+UID:fe84fd67-5023-4b88-94b0-fb513e6a88cd
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 21-27\, 2024\n📍 Location: Messe Wien Exhibition Congress Center\, Vi
  enna\, Austria\n⏰ Original Deadline (UTC-12): 2024-02-01 23:59:59\nCateg
@@ -401,8 +401,8 @@ SUMMARY:ICML 2025 Abstract Deadline [Paper Submissions Open on OpenReview
  Jan 08 2025 11:59 PM UTC]
 DTSTART;TZID="UTC-12:00":20250123T235959
 DTEND;TZID="UTC-12:00":20250124T000059
-DTSTAMP:20261115T073556Z
-UID:ba193189-0961-4cfd-866c-8f187afc07bf
+DTSTAMP:20261116T074139Z
+UID:e0a6c867-1c93-424d-9df1-e8d132c2af85
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 13-19\, 2025\n📍 Location: Vancouver Convention Center\, Vancouver\, 
  Canada\n⏰ Original Deadline (UTC-12): 2025-01-23 23:59:59\nCategory: 人
@@ -416,8 +416,8 @@ SUMMARY:ICML 2025 Paper Deadline [Paper Submissions Open on OpenReview Jan
   08 2025 11:59 PM UTC]
 DTSTART;TZID="UTC-12:00":20250130T235959
 DTEND;TZID="UTC-12:00":20250131T000059
-DTSTAMP:20261115T073556Z
-UID:a03e43a3-1dd5-4132-9328-547c1e5f3723
+DTSTAMP:20261116T074139Z
+UID:750d1abf-149e-48fc-9066-3947392b5a41
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 13-19\, 2025\n📍 Location: Vancouver Convention Center\, Vancouver\, 
  Canada\n⏰ Original Deadline (UTC-12): 2025-01-30 23:59:59\nCategory: 人
@@ -431,8 +431,8 @@ SUMMARY:ICML 2026 Abstract Deadline [Paper Submissions Open on OpenReview
  Jan 08 2026 12:00AM UTC-0]
 DTSTART:20260124T115959Z
 DTEND:20260124T120059Z
-DTSTAMP:20261115T073556Z
-UID:b4f0918e-f8c4-4119-862f-b263fe539b43
+DTSTAMP:20261116T074139Z
+UID:bcadf10e-539e-47d9-8ea3-a655af946042
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 6-11\, 2026\n📍 Location: Seoul\, Korea\n⏰ Original Deadline (UTC+0
  ): 2026-01-24 11:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THC
@@ -446,8 +446,8 @@ SUMMARY:ICML 2026 Paper Deadline [Paper Submissions Open on OpenReview Jan
   08 2026 12:00AM UTC-0]
 DTSTART:20260129T115959Z
 DTEND:20260129T120059Z
-DTSTAMP:20261115T073556Z
-UID:47a8fc9c-4bd7-4b9a-9e9a-96a2555abd54
+DTSTAMP:20261116T074139Z
+UID:2de67ed7-8ef2-4736-bc23-956032df669e
 DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Ju
  ly 6-11\, 2026\n📍 Location: Seoul\, Korea\n⏰ Original Deadline (UTC+0
  ): 2026-01-29 11:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THC
@@ -457,11 +457,53 @@ LOCATION:Seoul\, Korea
 URL:https://icml.cc/Conferences/2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ICML 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20270114T235959
+DTEND;TZID="UTC-12:00":20270115T000059
+DTSTAMP:20261116T074139Z
+UID:4be0e3c3-1233-4000-b21c-e18df5a77b2a
+DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Au
+ gust 2-4\, 2027\n📍 Location: Riocentro\, Rio de Janeiro\, Brazil\n⏰ O
+ riginal Deadline (AoE): 2027-01-14 23:59:59\nCategory: 人工智能 (AI)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://icml.cc/Conferences
+ /2027\nDBLP Index: https://dblp.org/db/conf/icml
+LOCATION:Riocentro\, Rio de Janeiro\, Brazil
+URL:https://icml.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICML 2027 Paper Deadline
+DTSTART;TZID="UTC-12:00":20270122T235959
+DTEND;TZID="UTC-12:00":20270123T000059
+DTSTAMP:20261116T074139Z
+UID:f4200f52-aa16-4e1a-9efe-954287c2837d
+DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Au
+ gust 2-4\, 2027\n📍 Location: Riocentro\, Rio de Janeiro\, Brazil\n⏰ O
+ riginal Deadline (AoE): 2027-01-22 23:59:59\nCategory: 人工智能 (AI)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://icml.cc/Conferences
+ /2027\nDBLP Index: https://dblp.org/db/conf/icml
+LOCATION:Riocentro\, Rio de Janeiro\, Brazil
+URL:https://icml.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICML 2027 Decision Notification
+DTSTART;TZID="UTC-12:00":20270503T235959
+DTEND;TZID="UTC-12:00":20270504T000059
+DTSTAMP:20261116T074139Z
+UID:20799aae-0e97-493d-90df-b5496e7854c9
+DESCRIPTION:International Conference on Machine Learning\n🗓️ Date: Au
+ gust 2-4\, 2027\n📍 Location: Riocentro\, Rio de Janeiro\, Brazil\n⏰ O
+ riginal Deadline (AoE): 2027-05-03 23:59:59\nCategory: 人工智能 (AI)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://icml.cc/Conferences
+ /2027\nDBLP Index: https://dblp.org/db/conf/icml
+LOCATION:Riocentro\, Rio de Janeiro\, Brazil
+URL:https://icml.cc/Conferences/2027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EMNLP 2021 Abstract Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20210510T235959
 DTEND;TZID="UTC-12:00":20210511T000059
-DTSTAMP:20261115T073556Z
-UID:cea5f077-c44f-43bb-ad3d-5b970e7048db
+DTSTAMP:20261116T074139Z
+UID:f8bf5ea0-5122-4eba-b05f-5e308975d6aa
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 7-9\, 2021\n📍 Location: Punta Cana
  \, Dominican Republic (Hybrid)\n⏰ Original Deadline (UTC-12): 2021-05-10
@@ -475,8 +517,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2021 Paper Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20210517T235959
 DTEND;TZID="UTC-12:00":20210518T000059
-DTSTAMP:20261115T073556Z
-UID:3a6f1f15-ef00-4d0d-aeb0-bb85634c51bd
+DTSTAMP:20261116T074139Z
+UID:33daa832-e5f9-4ffa-9324-3cd4335a3bae
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 7-9\, 2021\n📍 Location: Punta Cana
  \, Dominican Republic (Hybrid)\n⏰ Original Deadline (UTC-12): 2021-05-17
@@ -490,8 +532,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2021 Paper Deadline [ARR pilot\; reviews ready by July 29]
 DTSTART;TZID="UTC-12:00":20210515T235959
 DTEND;TZID="UTC-12:00":20210516T000059
-DTSTAMP:20261115T073556Z
-UID:8513508d-e21f-409d-8f55-9770717290b7
+DTSTAMP:20261116T074139Z
+UID:63485f1b-c8f7-430b-bf0c-7a1516020bc7
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 7-9\, 2021\n📍 Location: Punta Cana
  \, Dominican Republic (Hybrid)\n⏰ Original Deadline (UTC-12): 2021-05-15
@@ -505,8 +547,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2022 Abstract Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20220617T235959
 DTEND;TZID="UTC-12:00":20220618T000059
-DTSTAMP:20261115T073556Z
-UID:3f0bc7ea-e5c9-4a81-9a89-436904f7fb31
+DTSTAMP:20261116T074139Z
+UID:3e9078ff-5b7a-4464-af2d-b888891e84d5
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 9-11\, 2022\n📍 Location: Abu Dhabi 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2022-06-17 23:59:59\nCategory: 
@@ -519,8 +561,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2022 Paper Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20220624T235959
 DTEND;TZID="UTC-12:00":20220625T000059
-DTSTAMP:20261115T073556Z
-UID:6ec8d59b-8b4d-42fe-bd3c-1676cb995edf
+DTSTAMP:20261116T074139Z
+UID:35de0b9f-1bb8-4281-ac94-6067e3a5b6f8
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 9-11\, 2022\n📍 Location: Abu Dhabi 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2022-06-24 23:59:59\nCategory: 
@@ -534,8 +576,8 @@ SUMMARY:EMNLP 2022 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20220724T235959
 DTEND;TZID="UTC-12:00":20220725T000059
-DTSTAMP:20261115T073556Z
-UID:bac31677-749b-47c7-bf44-3231c28bec4e
+DTSTAMP:20261116T074139Z
+UID:3594e160-21b8-4546-af99-8bb37997eb3f
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 9-11\, 2022\n📍 Location: Abu Dhabi 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2022-07-24 23:59:59\nCategory: 
@@ -548,8 +590,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2023 Abstract Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20230616T235959
 DTEND;TZID="UTC-12:00":20230617T000059
-DTSTAMP:20261115T073556Z
-UID:9c5574ce-c1d8-4280-b870-ee5374cce4e1
+DTSTAMP:20261116T074139Z
+UID:9c540970-5a51-4788-a960-35869352d98d
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 8-10\, 2023\n📍 Location: Singapore 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2023-06-16 23:59:59\nCategory: 
@@ -562,8 +604,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2023 Paper Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20230623T235959
 DTEND;TZID="UTC-12:00":20230624T000059
-DTSTAMP:20261115T073556Z
-UID:c3b72eed-5eec-4722-a2a4-2ea2b93d5fb4
+DTSTAMP:20261116T074139Z
+UID:e511c933-9af5-4179-8978-27d06f58c8a9
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 8-10\, 2023\n📍 Location: Singapore 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2023-06-23 23:59:59\nCategory: 
@@ -576,8 +618,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2023 Paper Deadline [ARR submission]
 DTSTART;TZID="UTC-12:00":20230615T235959
 DTEND;TZID="UTC-12:00":20230616T000059
-DTSTAMP:20261115T073556Z
-UID:9077a7c7-a216-486c-9a3a-5d1c6c36654a
+DTSTAMP:20261116T074139Z
+UID:a9851543-221b-4d5f-85e9-8f3659b4eb2d
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 8-10\, 2023\n📍 Location: Singapore 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2023-06-15 23:59:59\nCategory: 
@@ -591,8 +633,8 @@ SUMMARY:EMNLP 2023 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20230822T235959
 DTEND;TZID="UTC-12:00":20230823T000059
-DTSTAMP:20261115T073556Z
-UID:54116bad-3235-4b3c-80c7-402d26ba634b
+DTSTAMP:20261116T074139Z
+UID:3239aad8-0e13-4c32-ae27-f5fbac8e6abb
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: December 8-10\, 2023\n📍 Location: Singapore 
  (Hybrid)\n⏰ Original Deadline (UTC-12): 2023-08-22 23:59:59\nCategory: 
@@ -605,8 +647,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2024 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20240615T235959
 DTEND;TZID="UTC-12:00":20240616T000059
-DTSTAMP:20261115T073556Z
-UID:30e0ac1d-0943-4910-a247-2524a6090ccd
+DTSTAMP:20261116T074139Z
+UID:40dae887-487f-4859-8f9a-4a2536a2bcea
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 12-14\, 2024\n📍 Location: Miami\, F
  lorida\, USA (Hybrid)\n⏰ Original Deadline (UTC-12): 2024-06-15 23:59:59
@@ -620,8 +662,8 @@ SUMMARY:EMNLP 2024 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20240820T235959
 DTEND;TZID="UTC-12:00":20240821T000059
-DTSTAMP:20261115T073556Z
-UID:9820003d-e243-4901-a230-b53ad8ec4c29
+DTSTAMP:20261116T074139Z
+UID:43851c46-0714-4089-a649-d76099001e5f
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 12-14\, 2024\n📍 Location: Miami\, F
  lorida\, USA (Hybrid)\n⏰ Original Deadline (UTC-12): 2024-08-20 23:59:59
@@ -634,8 +676,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2025 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20250519T235959
 DTEND;TZID="UTC-12:00":20250520T000059
-DTSTAMP:20261115T073556Z
-UID:207651be-0bbb-414d-aafe-d137fb1c8dfd
+DTSTAMP:20261116T074139Z
+UID:0d91cbb3-f5e5-41ad-8d83-e93d242c6d6b
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 5-7\, 2025\n📍 Location: Suzhou\, Ch
  ina (Hybrid)\n⏰ Original Deadline (UTC-12): 2025-05-19 23:59:59\nCategor
@@ -649,8 +691,8 @@ SUMMARY:EMNLP 2025 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20250801T235959
 DTEND;TZID="UTC-12:00":20250802T000059
-DTSTAMP:20261115T073556Z
-UID:8a72ec99-f43b-4925-b231-4c689c65da28
+DTSTAMP:20261116T074139Z
+UID:9df7e97a-88b3-46a5-8665-f5b4abc80498
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: November 5-7\, 2025\n📍 Location: Suzhou\, Ch
  ina (Hybrid)\n⏰ Original Deadline (UTC-12): 2025-08-01 23:59:59\nCategor
@@ -663,8 +705,8 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2026 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20260525T235959
 DTEND;TZID="UTC-12:00":20260526T000059
-DTSTAMP:20261115T073556Z
-UID:bbf63dbf-bb99-4862-a13a-13428e233e9d
+DTSTAMP:20261116T074139Z
+UID:242cfe47-67a0-407c-8112-ac79c43a8ceb
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: October 25-27\, 2026\n📍 Location: Budapest\,
   Hungary (Hybrid)\n⏰ Original Deadline (UTC-12): 2026-05-25 23:59:59\nCa
@@ -678,8 +720,8 @@ SUMMARY:EMNLP 2026 Paper Deadline [Commitment deadline for papers with ARR
   reviews and meta-reviews]
 DTSTART;TZID="UTC-12:00":20260802T235959
 DTEND;TZID="UTC-12:00":20260803T000059
-DTSTAMP:20261115T073556Z
-UID:ffbf9add-c590-44d3-8859-92314224092c
+DTSTAMP:20261116T074139Z
+UID:1eb50115-e8c6-4c61-9de2-431c9688e33f
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\n🗓️ Date: October 25-27\, 2026\n📍 Location: Budapest\,
   Hungary (Hybrid)\n⏰ Original Deadline (UTC-12): 2026-08-02 23:59:59\nCa
@@ -692,8 +734,8 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20201123T235959
 DTEND;TZID="UTC-12:00":20201124T000059
-DTSTAMP:20261115T073556Z
-UID:44c409df-b642-4721-a8c5-00e4f2365aba
+DTSTAMP:20261116T074139Z
+UID:2a62ad3f-bea1-4b0c-bf7c-9a9bd3e8f31a
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 7-9\, 2021\n
  📍 Location: Virtual\n⏰ Original Deadline (UTC-12): 2020-11-23 23:59:5
@@ -706,8 +748,8 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2022 Paper Deadline [ARR January cycle]
 DTSTART;TZID="UTC-12:00":20220115T235959
 DTEND;TZID="UTC-12:00":20220116T000059
-DTSTAMP:20261115T073556Z
-UID:8d6c1500-777b-4199-b451-13e38b198304
+DTSTAMP:20261116T074139Z
+UID:fb3f5acf-58c0-435b-9bd3-270e0b54e23d
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: July 11-13\, 2022\n
  📍 Location: Seattle\, Washington\, USA (Hybrid)\n⏰ Original Deadline 
@@ -722,8 +764,8 @@ SUMMARY:NAACL 2022 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20220306T235959
 DTEND;TZID="UTC-12:00":20220307T000059
-DTSTAMP:20261115T073556Z
-UID:6ff44301-edc7-4e10-b835-633d982f97b4
+DTSTAMP:20261116T074139Z
+UID:8bfe840d-5921-4222-9028-4a0637db03df
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: July 11-13\, 2022\n
  📍 Location: Seattle\, Washington\, USA (Hybrid)\n⏰ Original Deadline 
@@ -737,8 +779,8 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2024 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20231215T235959
 DTEND;TZID="UTC-12:00":20231216T000059
-DTSTAMP:20261115T073556Z
-UID:15a58c27-4cd9-4046-ac61-b5bb2c71513e
+DTSTAMP:20261116T074139Z
+UID:8a2c94ab-348a-4871-9436-37c2c240677d
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 17-19\, 2024\n
  📍 Location: Mexico City\, Mexico (Hybrid)\n⏰ Original Deadline (UTC-1
@@ -753,8 +795,8 @@ SUMMARY:NAACL 2024 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20240220T235959
 DTEND;TZID="UTC-12:00":20240221T000059
-DTSTAMP:20261115T073556Z
-UID:d068bb6a-c597-4061-befb-c9f174239a28
+DTSTAMP:20261116T074139Z
+UID:08ebcf4b-ea32-4b46-a80f-489951b46109
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 17-19\, 2024\n
  📍 Location: Mexico City\, Mexico (Hybrid)\n⏰ Original Deadline (UTC-1
@@ -768,8 +810,8 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2025 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20241015T235959
 DTEND;TZID="UTC-12:00":20241016T000059
-DTSTAMP:20261115T073556Z
-UID:1037d5a4-a5dc-4b72-9e63-419a88ef9d22
+DTSTAMP:20261116T074139Z
+UID:f83d3a22-136b-456e-88ec-d6173aceb0ed
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: April 30-May 2\, 202
  5\n📍 Location: Albuquerque\, New Mexico\, USA (Hybrid)\n⏰ Original De
@@ -784,8 +826,8 @@ SUMMARY:NAACL 2025 Paper Deadline [Commitment deadline for papers reviewed
   by ARR]
 DTSTART;TZID="UTC-12:00":20241216T235959
 DTEND;TZID="UTC-12:00":20241217T000059
-DTSTAMP:20261115T073556Z
-UID:4d5292b0-844d-4ec0-a12b-ba12e8982df6
+DTSTAMP:20261116T074139Z
+UID:6ad8bf97-b644-4e7d-a387-53f4cf1b98da
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: April 30-May 2\, 202
  5\n📍 Location: Albuquerque\, New Mexico\, USA (Hybrid)\n⏰ Original De
@@ -799,8 +841,8 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2027 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20261012T235959
 DTEND;TZID="UTC-12:00":20261013T000059
-DTSTAMP:20261115T073556Z
-UID:3f119603-30ca-4077-a384-c6581d06fd69
+DTSTAMP:20261116T074139Z
+UID:2fd9e13e-0968-4f03-a78c-aba17fdbd5fd
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 1-5\, 2027\n
  📍 Location: San Francisco\, California\, USA\n⏰ Original Deadline (UT
@@ -814,8 +856,8 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2027 Rebuttal Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20261130T235959
 DTEND;TZID="UTC-12:00":20261201T000059
-DTSTAMP:20261115T073556Z
-UID:cc5163c3-d1e5-4890-99d4-66db3fb7351a
+DTSTAMP:20261116T074139Z
+UID:22340bef-0039-483a-ba79-6ac60230f465
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 1-5\, 2027\n
  📍 Location: San Francisco\, California\, USA\n⏰ Original Deadline (UT
@@ -830,8 +872,8 @@ SUMMARY:NAACL 2027 Paper Deadline [NAACL commitment after ARR meta-reviews
  \; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20261223T235959
 DTEND;TZID="UTC-12:00":20261224T000059
-DTSTAMP:20261115T073556Z
-UID:8f1a0159-5a90-4d90-a14b-93775e83ae42
+DTSTAMP:20261116T074139Z
+UID:863690a7-66bc-46b2-b78e-9dab3faf702a
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 1-5\, 2027\n
  📍 Location: San Francisco\, California\, USA\n⏰ Original Deadline (UT
@@ -846,8 +888,8 @@ SUMMARY:NAACL 2027 Decision Notification [NAACL commitment after ARR meta-
  reviews\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20270210T235959
 DTEND;TZID="UTC-12:00":20270211T000059
-DTSTAMP:20261115T073556Z
-UID:85e037cf-e120-4b16-91f0-c5691d4dadd2
+DTSTAMP:20261116T074139Z
+UID:a90c7184-2578-4343-a954-3465e0d21b23
 DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
  ociation for Computational Linguistics\n🗓️ Date: June 1-5\, 2027\n
  📍 Location: San Francisco\, California\, USA\n⏰ Original Deadline (UT
@@ -861,8 +903,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20201007T235959
 DTEND;TZID="UTC-12:00":20201008T000059
-DTSTAMP:20261115T073556Z
-UID:c74938dc-d0ec-4a47-a2ca-925f1a71dd14
+DTSTAMP:20261116T074139Z
+UID:ea2283e5-b7c4-4592-aace-6fa754de9616
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: April 21-23\, 2021\n📍 L
  ocation: Virtual\n⏰ Original Deadline (UTC-12): 2020-10-07 23:59:59\nCat
@@ -875,8 +917,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2023 Abstract Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20221013T235959
 DTEND;TZID="UTC-12:00":20221014T000059
-DTSTAMP:20261115T073556Z
-UID:c635c124-caff-429d-b2dd-8a20d67ccf75
+DTSTAMP:20261116T074139Z
+UID:73ef4c3d-5692-4611-883c-cb8a7d972ef8
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: May 2-4\, 2023\n📍 Locat
  ion: Dubrovnik\, Croatia (Hybrid)\n⏰ Original Deadline (UTC-12): 2022-10
@@ -889,8 +931,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2023 Paper Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20221020T235959
 DTEND;TZID="UTC-12:00":20221021T000059
-DTSTAMP:20261115T073556Z
-UID:f8b9a9a2-5d2d-4b94-bd94-26dfdd79d0b6
+DTSTAMP:20261116T074139Z
+UID:09becfcb-56a6-422c-bb2c-6a332482bdb6
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: May 2-4\, 2023\n📍 Locat
  ion: Dubrovnik\, Croatia (Hybrid)\n⏰ Original Deadline (UTC-12): 2022-10
@@ -903,8 +945,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2023 Paper Deadline [ARR submission]
 DTSTART;TZID="UTC-12:00":20221015T235959
 DTEND;TZID="UTC-12:00":20221016T000059
-DTSTAMP:20261115T073556Z
-UID:198c6b05-bb02-489f-9833-04f46f646259
+DTSTAMP:20261116T074139Z
+UID:fc015b83-20e4-4116-be69-70848b7fd6c8
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: May 2-4\, 2023\n📍 Locat
  ion: Dubrovnik\, Croatia (Hybrid)\n⏰ Original Deadline (UTC-12): 2022-10
@@ -917,8 +959,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2024 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20231015T235959
 DTEND;TZID="UTC-12:00":20231016T000059
-DTSTAMP:20261115T073556Z
-UID:df7fb262-2a44-4ebe-8d0b-e5551f1e2a85
+DTSTAMP:20261116T074139Z
+UID:ce3ae9f2-b499-4343-a0fd-09a6c0c822d6
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 18-20\, 2024\n📍 L
  ocation: St. Julians\, Malta (Hybrid)\n⏰ Original Deadline (UTC-12): 202
@@ -932,8 +974,8 @@ SUMMARY:EACL 2024 Paper Deadline [Commitment deadline for papers reviewed
  by ARR]
 DTSTART;TZID="UTC-12:00":20231220T235959
 DTEND;TZID="UTC-12:00":20231221T000059
-DTSTAMP:20261115T073556Z
-UID:9482e588-86f3-459b-9425-ad9553a5c146
+DTSTAMP:20261116T074139Z
+UID:5f70419f-a1b3-42cd-abf6-cfe01bb41b5a
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 18-20\, 2024\n📍 L
  ocation: St. Julians\, Malta (Hybrid)\n⏰ Original Deadline (UTC-12): 202
@@ -946,8 +988,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2026 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20251006T235959
 DTEND;TZID="UTC-12:00":20251007T000059
-DTSTAMP:20261115T073556Z
-UID:991a4ea5-a58d-4467-aed8-2bb1207ca472
+DTSTAMP:20261116T074139Z
+UID:51bca6fe-681b-4b4a-bf45-5877ac7ba3af
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 25-27\, 2026\n📍 L
  ocation: Rabat\, Morocco (Hybrid)\n⏰ Original Deadline (AoE): 2025-10-06
@@ -961,8 +1003,8 @@ SUMMARY:EACL 2026 Paper Deadline [Commitment deadline for papers reviewed
  by ARR]
 DTSTART;TZID="UTC-12:00":20251214T235959
 DTEND;TZID="UTC-12:00":20251215T000059
-DTSTAMP:20261115T073556Z
-UID:4bf63fb6-8422-4d38-8dd1-a32386b65c15
+DTSTAMP:20261116T074139Z
+UID:d40a6fa1-c3d0-4d69-8014-2bdc84b6d31c
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 25-27\, 2026\n📍 L
  ocation: Rabat\, Morocco (Hybrid)\n⏰ Original Deadline (AoE): 2025-12-14
@@ -975,8 +1017,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2027 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20260803T235959
 DTEND;TZID="UTC-12:00":20260804T000059
-DTSTAMP:20261115T073556Z
-UID:218e3bdf-edb0-4ea0-a03a-8706ced3b1e5
+DTSTAMP:20261116T074139Z
+UID:63db3f98-2b1e-4c72-9a88-e2aa88d04ad9
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 9-14\, 2027\n📍 Lo
  cation: Athens\, Greece\n⏰ Original Deadline (UTC-12): 2026-08-03 23:59:
@@ -989,8 +1031,8 @@ BEGIN:VEVENT
 SUMMARY:EACL 2027 Rebuttal Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20260919T235959
 DTEND;TZID="UTC-12:00":20260920T000059
-DTSTAMP:20261115T073556Z
-UID:2022f612-acf4-4db4-8587-dedfeee79ccc
+DTSTAMP:20261116T074139Z
+UID:a334d858-b88b-4b18-856c-d72293e57a9e
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 9-14\, 2027\n📍 Lo
  cation: Athens\, Greece\n⏰ Original Deadline (UTC-12): 2026-09-19 23:59:
@@ -1004,8 +1046,8 @@ SUMMARY:EACL 2027 Paper Deadline [EACL commitment after ARR meta-reviews\;
   reviewed papers only]
 DTSTART;TZID="UTC-12:00":20261011T235959
 DTEND;TZID="UTC-12:00":20261012T000059
-DTSTAMP:20261115T073556Z
-UID:c26c9055-4d08-4537-af6e-cd385a25cf32
+DTSTAMP:20261116T074139Z
+UID:ae4ad48b-d898-47ab-8b3d-55bc45cc8c64
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 9-14\, 2027\n📍 Lo
  cation: Athens\, Greece\n⏰ Original Deadline (UTC-12): 2026-10-11 23:59:
@@ -1019,8 +1061,8 @@ SUMMARY:EACL 2027 Decision Notification [EACL commitment after ARR meta-re
  views\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20261112T235959
 DTEND;TZID="UTC-12:00":20261113T000059
-DTSTAMP:20261115T073556Z
-UID:60f36ab0-8cf0-454c-a916-594c18076140
+DTSTAMP:20261116T074139Z
+UID:0febe69d-139e-4fb7-a056-ed200f404696
 DESCRIPTION:The Annual Conference of the European Chapter of the Associati
  on for Computational Linguistics\n🗓️ Date: March 9-14\, 2027\n📍 Lo
  cation: Athens\, Greece\n⏰ Original Deadline (UTC-12): 2026-11-12 23:59:
@@ -1042,8 +1084,8 @@ BEGIN:VEVENT
 SUMMARY:ICMLA 2022 Paper Deadline [Main Conference Papers DDL.]
 DTSTART;TZID="UTC-05:00":20220718T235959
 DTEND;TZID="UTC-05:00":20220719T000059
-DTSTAMP:20261115T073556Z
-UID:a1724c50-760f-4b85-a310-288b87028657
+DTSTAMP:20261116T074139Z
+UID:62e621f7-5c6b-455e-bfd6-ffdf97c03fa2
 DESCRIPTION:International Conference on Machine Learning and Applications
  \n🗓️ Date: December 12-14\, 2022\n📍 Location: Atlantis Hotel\, Bah
  amas\n⏰ Original Deadline (UTC-5): 2022-07-18 23:59:59\nCategory: 人工
@@ -1056,8 +1098,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2021 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20210113T235959
 DTEND;TZID="UTC-12:00":20210114T000059
-DTSTAMP:20261115T073556Z
-UID:42a4f5aa-adbd-4712-b2c2-16ee74c5b202
+DTSTAMP:20261116T074139Z
+UID:25dd3b66-4637-4585-9516-aa206de18fbd
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 23-26\, 2021\n📍 Location: Virtual conference\n⏰ 
  Original Deadline (UTC-12): 2021-01-13 23:59:59\nCategory: 人工智能 (A
@@ -1070,8 +1112,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20210120T235959
 DTEND;TZID="UTC-12:00":20210121T000059
-DTSTAMP:20261115T073556Z
-UID:81df4cf1-8d52-4aa5-bb1a-df52d291ff28
+DTSTAMP:20261116T074139Z
+UID:1b0e84ac-d19e-45ad-b58d-e9e99ae8cc33
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 23-26\, 2021\n📍 Location: Virtual conference\n⏰ 
  Original Deadline (UTC-12): 2021-01-20 23:59:59\nCategory: 人工智能 (A
@@ -1094,8 +1136,8 @@ SUMMARY:IJCAI 2022 Abstract Deadline [Abstract: January 7\, 23:59 AoE (UTC
  -12)\, converted to CET (UTC+1)\; full paper: January 14\, 23:59 CET]
 DTSTART;TZID="UTC+01:00":20220108T125900
 DTEND;TZID="UTC+01:00":20220108T130000
-DTSTAMP:20261115T073556Z
-UID:fca0913f-144e-4966-96da-05d564a92761
+DTSTAMP:20261116T074139Z
+UID:d0c7b8f1-0d77-4014-a738-de6ab84cc4f9
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: July 25-29\, 2022\n📍 Location: Vienna\, Austria.\n⏰ Ori
  ginal Deadline (UTC+1): 2022-01-08 12:59:00\nCategory: 人工智能 (AI)\n
@@ -1109,8 +1151,8 @@ SUMMARY:IJCAI 2022 Paper Deadline [Abstract: January 7\, 23:59 AoE (UTC-12
  )\, converted to CET (UTC+1)\; full paper: January 14\, 23:59 CET]
 DTSTART;TZID="UTC+01:00":20220114T235959
 DTEND;TZID="UTC+01:00":20220115T000059
-DTSTAMP:20261115T073556Z
-UID:4577831e-28b8-4ce5-9648-da3df02118c3
+DTSTAMP:20261116T074139Z
+UID:bb54af8f-5012-4efa-8478-41891d8bfe65
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: July 25-29\, 2022\n📍 Location: Vienna\, Austria.\n⏰ Ori
  ginal Deadline (UTC+1): 2022-01-14 23:59:59\nCategory: 人工智能 (AI)\n
@@ -1123,8 +1165,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2023 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20230111T235959
 DTEND;TZID="UTC-12:00":20230112T000059
-DTSTAMP:20261115T073556Z
-UID:c040c828-94ff-414b-8a04-6deebd1e3a56
+DTSTAMP:20261116T074139Z
+UID:7be31dd5-9e9f-4e4c-b28c-3c670b2ad1e8
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 22-25\, 2023\n📍 Location: Macao\, China\n⏰ Origi
  nal Deadline (UTC-12): 2023-01-11 23:59:59\nCategory: 人工智能 (AI)\nC
@@ -1137,8 +1179,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230118T235959
 DTEND;TZID="UTC-12:00":20230119T000059
-DTSTAMP:20261115T073556Z
-UID:dd7b61db-06f9-4e42-8ee8-c403fddb1822
+DTSTAMP:20261116T074139Z
+UID:376492a9-f5a2-4126-b79f-fbe600140002
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 22-25\, 2023\n📍 Location: Macao\, China\n⏰ Origi
  nal Deadline (UTC-12): 2023-01-18 23:59:59\nCategory: 人工智能 (AI)\nC
@@ -1151,8 +1193,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240110T235959
 DTEND;TZID="UTC-12:00":20240111T000059
-DTSTAMP:20261115T073556Z
-UID:82ff5c00-c6fe-4a66-896b-ae90e052212a
+DTSTAMP:20261116T074139Z
+UID:7078c6ab-d64a-4473-9695-b78a49b983ca
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 6-9\, 2024\n📍 Location: Jeju Island\, South Korea.
  \n⏰ Original Deadline (UTC-12): 2024-01-10 23:59:59\nCategory: 人工智
@@ -1165,8 +1207,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20240117T235959
 DTEND;TZID="UTC-12:00":20240118T000059
-DTSTAMP:20261115T073556Z
-UID:a1edead3-c39b-4818-8954-32e18f667580
+DTSTAMP:20261116T074139Z
+UID:c5be020f-ec46-4f34-b214-0c93c0450f10
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 6-9\, 2024\n📍 Location: Jeju Island\, South Korea.
  \n⏰ Original Deadline (UTC-12): 2024-01-17 23:59:59\nCategory: 人工智
@@ -1180,8 +1222,8 @@ SUMMARY:IJCAI 2025 Abstract Deadline [Separate satellite event: August 29-
  31\, 2025\, Guangzhou\, China]
 DTSTART;TZID="UTC-12:00":20250116T235959
 DTEND;TZID="UTC-12:00":20250117T000059
-DTSTAMP:20261115T073556Z
-UID:c94f8515-515a-40e3-8dfc-0aa39432c156
+DTSTAMP:20261116T074139Z
+UID:0c195fbf-8dd5-429b-996d-c981f5267c43
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 19-22\, 2025\n📍 Location: Montreal\, Canada.\n⏰ 
  Original Deadline (UTC-12): 2025-01-16 23:59:59\nCategory: 人工智能 (A
@@ -1195,8 +1237,8 @@ SUMMARY:IJCAI 2025 Paper Deadline [Separate satellite event: August 29-31
  \, 2025\, Guangzhou\, China]
 DTSTART;TZID="UTC-12:00":20250123T235959
 DTEND;TZID="UTC-12:00":20250124T000059
-DTSTAMP:20261115T073556Z
-UID:722ffb47-b9fe-4a0a-bbbc-32890304edec
+DTSTAMP:20261116T074139Z
+UID:8b69ab91-1b40-47b4-a368-f5460de6034e
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 19-22\, 2025\n📍 Location: Montreal\, Canada.\n⏰ 
  Original Deadline (UTC-12): 2025-01-23 23:59:59\nCategory: 人工智能 (A
@@ -1209,8 +1251,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20260112T235959
 DTEND;TZID="UTC-12:00":20260113T000059
-DTSTAMP:20261115T073556Z
-UID:5135c066-3933-4129-839f-4f85d6c11032
+DTSTAMP:20261116T074139Z
+UID:d8753bd7-e8f6-4137-a5ed-04c3b119bab6
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 18-21\, 2026\n📍 Location: Bremen\, Germany\n⏰ Or
  iginal Deadline (UTC-12): 2026-01-12 23:59:59\nCategory: 人工智能 (AI)
@@ -1223,8 +1265,8 @@ BEGIN:VEVENT
 SUMMARY:IJCAI 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20260119T235959
 DTEND;TZID="UTC-12:00":20260120T000059
-DTSTAMP:20261115T073556Z
-UID:a4e2d31b-0f2e-44a4-a265-19773f4b4075
+DTSTAMP:20261116T074139Z
+UID:ba62cfe8-9011-44cd-abb8-ea18befacbf1
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 18-21\, 2026\n📍 Location: Bremen\, Germany\n⏰ Or
  iginal Deadline (UTC-12): 2026-01-19 23:59:59\nCategory: 人工智能 (AI)
@@ -1238,8 +1280,8 @@ SUMMARY:IJCAI 2027 Abstract Deadline [Separate satellite event: August 15-
  17\, 2027\, Hengqin\, China]
 DTSTART;TZID="UTC-12:00":20270104T235959
 DTEND;TZID="UTC-12:00":20270105T000059
-DTSTAMP:20261115T073556Z
-UID:ea56743d-d61c-4e92-b060-1f4c2b0da3d6
+DTSTAMP:20261116T074139Z
+UID:1425f4fc-4905-4f4b-95e4-579035fcc941
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 7-13\, 2027\n📍 Location: Kyoto\, Japan\n⏰ Origin
  al Deadline (AoE): 2027-01-04 23:59:59\nCategory: 人工智能 (AI)\nCCF B
@@ -1253,8 +1295,8 @@ SUMMARY:IJCAI 2027 Paper Deadline [Separate satellite event: August 15-17
  \, 2027\, Hengqin\, China]
 DTSTART;TZID="UTC-12:00":20270111T235959
 DTEND;TZID="UTC-12:00":20270112T000059
-DTSTAMP:20261115T073556Z
-UID:0fdda456-6593-4736-b47c-99a54a64f76d
+DTSTAMP:20261116T074139Z
+UID:34109820-6937-4cda-85c8-c204a5d8dbd3
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 7-13\, 2027\n📍 Location: Kyoto\, Japan\n⏰ Origin
  al Deadline (AoE): 2027-01-11 23:59:59\nCategory: 人工智能 (AI)\nCCF B
@@ -1268,8 +1310,8 @@ SUMMARY:IJCAI 2027 Rebuttal Deadline [Separate satellite event: August 15-
  17\, 2027\, Hengqin\, China]
 DTSTART;TZID="UTC-12:00":20270402T235959
 DTEND;TZID="UTC-12:00":20270403T000059
-DTSTAMP:20261115T073556Z
-UID:503bb687-4955-4e7c-9558-0812ab0d193e
+DTSTAMP:20261116T074139Z
+UID:1865d644-702b-443c-9667-6ada9d48df90
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 7-13\, 2027\n📍 Location: Kyoto\, Japan\n⏰ Origin
  al Deadline (AoE): 2027-04-02 23:59:59\nCategory: 人工智能 (AI)\nCCF B
@@ -1283,8 +1325,8 @@ SUMMARY:IJCAI 2027 Decision Notification [Separate satellite event: August
   15-17\, 2027\, Hengqin\, China]
 DTSTART;TZID="UTC-12:00":20270421T235959
 DTEND;TZID="UTC-12:00":20270422T000059
-DTSTAMP:20261115T073556Z
-UID:4428b666-daad-4f9e-aba9-0c7d0b6443fe
+DTSTAMP:20261116T074139Z
+UID:23de49d5-b95b-4ff5-8e19-2f5a6cd3b0fe
 DESCRIPTION:International Joint Conference on Artificial Intelligence\n
  🗓️ Date: August 7-13\, 2027\n📍 Location: Kyoto\, Japan\n⏰ Origin
  al Deadline (AoE): 2027-04-21 23:59:59\nCategory: 人工智能 (AI)\nCCF B
@@ -1297,8 +1339,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2021 Abstract Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20200901T235959
 DTEND;TZID="UTC-12:00":20200902T000059
-DTSTAMP:20261115T073556Z
-UID:fe45f695-82f1-42ba-9545-d93326f49a38
+DTSTAMP:20261116T074139Z
+UID:7d49ea69-2b07-43a3-b1ac-23ce65ed146d
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 4-7\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12): 2
  020-09-01 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL A
@@ -1311,8 +1353,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2021 Paper Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20200909T235959
 DTEND;TZID="UTC-12:00":20200910T000059
-DTSTAMP:20261115T073556Z
-UID:9c3bf164-ce03-4515-9822-1018c4f3c072
+DTSTAMP:20261116T074139Z
+UID:5ab2e8d3-f686-4090-9540-cf6841522867
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 4-7\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12): 2
  020-09-09 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL A
@@ -1325,8 +1367,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2021 Abstract Deadline [NeurIPS/EMNLP fast track]
 DTSTART;TZID="UTC-12:00":20200929T235959
 DTEND;TZID="UTC-12:00":20200930T000059
-DTSTAMP:20261115T073556Z
-UID:bd5e1c0a-bbc7-42df-8407-0593aa0a5c3a
+DTSTAMP:20261116T074139Z
+UID:10ff2238-f6af-41ef-b0f0-2ff2f70e74ce
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 4-7\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12): 2
  020-09-29 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL A
@@ -1339,8 +1381,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2021 Paper Deadline [NeurIPS/EMNLP fast track]
 DTSTART;TZID="UTC-12:00":20200929T235959
 DTEND;TZID="UTC-12:00":20200930T000059
-DTSTAMP:20261115T073556Z
-UID:b1f8cb35-6664-417f-b502-2e87464d6dda
+DTSTAMP:20261116T074139Z
+UID:c517a16d-7352-47e1-91b0-aa4aa7b1694a
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 4-7\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12): 2
  020-09-29 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL A
@@ -1353,8 +1395,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2022 Abstract Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20210830T235959
 DTEND;TZID="UTC-12:00":20210831T000059
-DTSTAMP:20261115T073556Z
-UID:0824c0e6-85ca-4ffb-a29a-5a1dc30d6d05
+DTSTAMP:20261116T074139Z
+UID:e1d928b0-a28f-4e89-a173-83c5abfc3adb
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 24-27\, 2022\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12):
   2021-08-30 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL
@@ -1367,8 +1409,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2022 Paper Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20210908T235959
 DTEND;TZID="UTC-12:00":20210909T000059
-DTSTAMP:20261115T073556Z
-UID:3dcce135-32f6-4c3d-b3d5-52fee89f01ce
+DTSTAMP:20261116T074139Z
+UID:94a5fd51-20b6-43da-b778-76adecdd6911
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 24-27\, 2022\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12):
   2021-09-08 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL
@@ -1381,8 +1423,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2022 Abstract Deadline [NeurIPS fast track]
 DTSTART;TZID="UTC-12:00":20211001T235959
 DTEND;TZID="UTC-12:00":20211002T000059
-DTSTAMP:20261115T073556Z
-UID:bd098bc1-8ba3-4320-9925-bf4d525653c4
+DTSTAMP:20261116T074139Z
+UID:38d5aba5-bc73-4f79-804e-738870d650ce
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 24-27\, 2022\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12):
   2021-10-01 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL
@@ -1395,8 +1437,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2022 Paper Deadline [NeurIPS fast track]
 DTSTART;TZID="UTC-12:00":20211001T235959
 DTEND;TZID="UTC-12:00":20211002T000059
-DTSTAMP:20261115T073556Z
-UID:cd89a6fe-61bd-42fe-a208-8243c8d00ee4
+DTSTAMP:20261116T074139Z
+UID:a0d57a9c-2689-4501-bdc7-cd9e9fae3f09
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 24-27\, 2022\n📍 Location: Virtual\n⏰ Original Deadline (UTC-12):
   2021-10-01 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\, THCPL
@@ -1409,8 +1451,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2023 Abstract Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20220808T235959
 DTEND;TZID="UTC-12:00":20220809T000059
-DTSTAMP:20261115T073556Z
-UID:25f1d1e8-3a11-471d-93aa-3d1754854a55
+DTSTAMP:20261116T074139Z
+UID:2b985d8f-3b9a-491b-aa7e-2e3556271b7e
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 9-12\, 2023\n📍 Location: Washington\, DC\, USA\n⏰ Original Deadl
  ine (UTC-12): 2022-08-08 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CO
@@ -1423,8 +1465,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2023 Paper Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20220815T235959
 DTEND;TZID="UTC-12:00":20220816T000059
-DTSTAMP:20261115T073556Z
-UID:aa694d01-da1c-48fb-b1e1-282cba3d7969
+DTSTAMP:20261116T074139Z
+UID:4c4a55d2-3bb8-4573-876d-b55de19baed3
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 9-12\, 2023\n📍 Location: Washington\, DC\, USA\n⏰ Original Deadl
  ine (UTC-12): 2022-08-15 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CO
@@ -1437,8 +1479,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2023 Abstract Deadline [NeurIPS fast track]
 DTSTART;TZID="UTC-12:00":20220916T235959
 DTEND;TZID="UTC-12:00":20220917T000059
-DTSTAMP:20261115T073556Z
-UID:6f9bb152-1864-407a-9051-153fbca3dd95
+DTSTAMP:20261116T074139Z
+UID:cd3826f6-2ddd-4a0b-b24a-a7c6cb7dca2a
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 9-12\, 2023\n📍 Location: Washington\, DC\, USA\n⏰ Original Deadl
  ine (UTC-12): 2022-09-16 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CO
@@ -1451,8 +1493,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2023 Paper Deadline [NeurIPS fast track]
 DTSTART;TZID="UTC-12:00":20220916T235959
 DTEND;TZID="UTC-12:00":20220917T000059
-DTSTAMP:20261115T073556Z
-UID:70a9decd-d0f6-49f6-a19c-a3678aa8188a
+DTSTAMP:20261116T074139Z
+UID:4e3880b6-be57-4d2f-9f0c-51dd362a858a
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 9-12\, 2023\n📍 Location: Washington\, DC\, USA\n⏰ Original Deadl
  ine (UTC-12): 2022-09-16 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CO
@@ -1465,8 +1507,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2024 Abstract Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20230808T235959
 DTEND;TZID="UTC-12:00":20230809T000059
-DTSTAMP:20261115T073556Z
-UID:cf4ba9e7-f823-4cb8-803b-08010f89be78
+DTSTAMP:20261116T074139Z
+UID:bb999227-ba29-47b6-a7d5-74b2c3705e5a
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 22-25\, 2024\n📍 Location: Vancouver\, British Columbia\, Canada\n
  ⏰ Original Deadline (UTC-12): 2023-08-08 23:59:59\nCategory: 人工智
@@ -1479,8 +1521,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2024 Paper Deadline [Regular round]
 DTSTART;TZID="UTC-12:00":20230815T235959
 DTEND;TZID="UTC-12:00":20230816T000059
-DTSTAMP:20261115T073556Z
-UID:a1ee73ad-36d3-4673-ae7f-280a7e56a435
+DTSTAMP:20261116T074139Z
+UID:236c174a-1d84-49ee-8347-71f7a3ab857e
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 22-25\, 2024\n📍 Location: Vancouver\, British Columbia\, Canada\n
  ⏰ Original Deadline (UTC-12): 2023-08-15 23:59:59\nCategory: 人工智
@@ -1493,8 +1535,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2024 Abstract Deadline [NeurIPS fast track]
 DTSTART;TZID="UTC-12:00":20230925T235959
 DTEND;TZID="UTC-12:00":20230926T000059
-DTSTAMP:20261115T073556Z
-UID:f62aedf0-3bea-439f-894a-3b055bce4a56
+DTSTAMP:20261116T074139Z
+UID:2cb24e0e-6315-4d10-b15d-936e898cf551
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 22-25\, 2024\n📍 Location: Vancouver\, British Columbia\, Canada\n
  ⏰ Original Deadline (UTC-12): 2023-09-25 23:59:59\nCategory: 人工智
@@ -1507,8 +1549,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2024 Paper Deadline [NeurIPS fast track]
 DTSTART;TZID="UTC-12:00":20230925T235959
 DTEND;TZID="UTC-12:00":20230926T000059
-DTSTAMP:20261115T073556Z
-UID:0b71f1b0-d3fb-47a7-9198-cdfffa9ef3fb
+DTSTAMP:20261116T074139Z
+UID:3491673f-7437-4ce1-9d6f-c4bc64503da2
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 22-25\, 2024\n📍 Location: Vancouver\, British Columbia\, Canada\n
  ⏰ Original Deadline (UTC-12): 2023-09-25 23:59:59\nCategory: 人工智
@@ -1521,8 +1563,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2025 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240807T235959
 DTEND;TZID="UTC-12:00":20240808T000059
-DTSTAMP:20261115T073556Z
-UID:3aa98a92-8944-4ebe-b87e-052212d54566
+DTSTAMP:20261116T074139Z
+UID:6cd1c5be-5757-4a23-aef8-02830f79473e
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 27-March 2\, 2025\n📍 Location: PHILADELPHIA\, PENNSYLVANIA\, USA\n
  ⏰ Original Deadline (UTC-12): 2024-08-07 23:59:59\nCategory: 人工智
@@ -1535,8 +1577,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2025 Paper Deadline
 DTSTART;TZID="UTC-12:00":20240815T235959
 DTEND;TZID="UTC-12:00":20240816T000059
-DTSTAMP:20261115T073556Z
-UID:bc43f3e8-d9b7-4f06-8906-b70a7a69ced7
+DTSTAMP:20261116T074139Z
+UID:6cf419dc-0491-4e14-85a4-0823d72781bd
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 27-March 2\, 2025\n📍 Location: PHILADELPHIA\, PENNSYLVANIA\, USA\n
  ⏰ Original Deadline (UTC-12): 2024-08-15 23:59:59\nCategory: 人工智
@@ -1549,8 +1591,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20250725T235959
 DTEND;TZID="UTC-12:00":20250726T000059
-DTSTAMP:20261115T073556Z
-UID:78bce53c-fa43-4f79-a198-a1bfa75e3513
+DTSTAMP:20261116T074139Z
+UID:d06b5ea0-cd8e-46e0-b99d-2d32aafee879
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Janu
  ary 22-25\, 2026\n📍 Location: Singapore EXPO\n⏰ Original Deadline (UT
  C-12): 2025-07-25 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\,
@@ -1563,8 +1605,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20250801T235959
 DTEND;TZID="UTC-12:00":20250802T000059
-DTSTAMP:20261115T073556Z
-UID:a8dbcd5f-b296-405d-8430-15b0e68eced6
+DTSTAMP:20261116T074139Z
+UID:77407ca4-a491-453f-9020-c8b6cc0eefc9
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Janu
  ary 22-25\, 2026\n📍 Location: Singapore EXPO\n⏰ Original Deadline (UT
  C-12): 2025-08-01 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*\,
@@ -1577,8 +1619,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2027 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20260721T235959
 DTEND;TZID="UTC-12:00":20260722T000059
-DTSTAMP:20261115T073556Z
-UID:8452b3ce-ef16-4e89-a0d6-a87a0023c166
+DTSTAMP:20261116T074139Z
+UID:1e763ef0-581d-4e7c-a616-2c31af44a0cd
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 16-23\, 2027\n📍 Location: Montréal\, Québec\, Canada\n⏰ Origin
  al Deadline (UTC-12): 2026-07-21 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -1591,8 +1633,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20260728T235959
 DTEND;TZID="UTC-12:00":20260729T000059
-DTSTAMP:20261115T073556Z
-UID:ef7e6595-39e8-4c65-8e66-1c0b7530e577
+DTSTAMP:20261116T074139Z
+UID:f7d1d48f-2242-4e94-86fb-6937715be467
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 16-23\, 2027\n📍 Location: Montréal\, Québec\, Canada\n⏰ Origin
  al Deadline (UTC-12): 2026-07-28 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -1605,8 +1647,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2027 Rebuttal Deadline
 DTSTART;TZID="UTC-12:00":20261031T235959
 DTEND;TZID="UTC-12:00":20261101T000059
-DTSTAMP:20261115T073556Z
-UID:393fc0a0-1264-4197-a11c-1c4955c740a2
+DTSTAMP:20261116T074139Z
+UID:b5e0f021-280f-42e1-9751-599e29059ed3
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 16-23\, 2027\n📍 Location: Montréal\, Québec\, Canada\n⏰ Origin
  al Deadline (UTC-12): 2026-10-31 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -1619,8 +1661,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20261130T235959
 DTEND;TZID="UTC-12:00":20261201T000059
-DTSTAMP:20261115T073556Z
-UID:507ed983-f55f-4e7b-b4b5-bd627f750fd0
+DTSTAMP:20261116T074139Z
+UID:a8e3a200-b744-4624-86a5-e5f2a49bfeb8
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 16-23\, 2027\n📍 Location: Montréal\, Québec\, Canada\n⏰ Origin
  al Deadline (UTC-12): 2026-11-30 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -1642,8 +1684,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2021 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20201109T235959
 DTEND;TZID="UTC-08:00":20201110T000059
-DTSTAMP:20261115T073556Z
-UID:2076bbb3-3cdb-4c2f-a44b-78dfb871cbd8
+DTSTAMP:20261116T074139Z
+UID:55f50a79-b092-437d-91e5-5682bca621dd
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 21-24\, 2021\n📍 Location: Virtual\n⏰ Original De
  adline (UTC-8): 2020-11-09 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, 
@@ -1656,8 +1698,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2021 Paper Deadline
 DTSTART;TZID="UTC-08:00":20201116T235959
 DTEND;TZID="UTC-08:00":20201117T000059
-DTSTAMP:20261115T073556Z
-UID:2f2a35b8-3de2-4579-85c4-221fe115fa6e
+DTSTAMP:20261116T074139Z
+UID:9321d447-975c-494e-b770-93442a5113ce
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 21-24\, 2021\n📍 Location: Virtual\n⏰ Original De
  adline (UTC-8): 2020-11-16 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, 
@@ -1670,8 +1712,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2022 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20211109T235959
 DTEND;TZID="UTC-08:00":20211110T000059
-DTSTAMP:20261115T073556Z
-UID:b3bb59d7-8b50-4904-b801-9f81743cd8dc
+DTSTAMP:20261116T074139Z
+UID:efa255f1-7316-4e6d-9bdb-1ebd621cea6e
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 21-24 and 28 (virtual posters)\, 2022\n📍 Location:
   New Orleans\, Louisiana (Hybrid)\n⏰ Original Deadline (UTC-8): 2021-11-
@@ -1685,8 +1727,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2022 Paper Deadline
 DTSTART;TZID="UTC-08:00":20211118T115900
 DTEND;TZID="UTC-08:00":20211118T120000
-DTSTAMP:20261115T073556Z
-UID:f267a99c-880e-477a-9fee-26b39b6a3613
+DTSTAMP:20261116T074139Z
+UID:677a85b7-2d6d-46e3-9479-04b1d89112f5
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 21-24 and 28 (virtual posters)\, 2022\n📍 Location:
   New Orleans\, Louisiana (Hybrid)\n⏰ Original Deadline (UTC-8): 2021-11-
@@ -1700,8 +1742,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2023 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20221104T225900
 DTEND;TZID="UTC-08:00":20221104T230000
-DTSTAMP:20261115T073556Z
-UID:3b09e902-1a51-462d-ab70-224880a657a1
+DTSTAMP:20261116T074139Z
+UID:7a4f0e83-1b53-44da-b432-cc7ba58ae1d2
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 20-22\, 2023\n📍 Location: Vancouver\, Canada (Hybr
  id)\n⏰ Original Deadline (UTC-8): 2022-11-04 22:59:00\nCategory: 人工
@@ -1714,8 +1756,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2023 Paper Deadline
 DTSTART;TZID="UTC-08:00":20221111T235959
 DTEND;TZID="UTC-08:00":20221112T000059
-DTSTAMP:20261115T073556Z
-UID:821e0be7-f2df-4796-a593-2c4c4db25cf5
+DTSTAMP:20261116T074139Z
+UID:4a80a438-c9bd-4247-abc2-b519c94afd68
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 20-22\, 2023\n📍 Location: Vancouver\, Canada (Hybr
  id)\n⏰ Original Deadline (UTC-8): 2022-11-11 23:59:59\nCategory: 人工
@@ -1728,8 +1770,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2024 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20231103T225900
 DTEND;TZID="UTC-08:00":20231103T230000
-DTSTAMP:20261115T073556Z
-UID:203e1a47-db15-4012-b00b-35fbc60cfc5d
+DTSTAMP:20261116T074139Z
+UID:f05c01be-29a9-4606-8ba2-ab56e3488403
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 19-21\, 2024\n📍 Location: Seattle\, USA (Hybrid)\n
  ⏰ Original Deadline (UTC-8): 2023-11-03 22:59:00\nCategory: 人工智能
@@ -1742,8 +1784,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2024 Paper Deadline
 DTSTART;TZID="UTC-08:00":20231117T235959
 DTEND;TZID="UTC-08:00":20231118T000059
-DTSTAMP:20261115T073556Z
-UID:b1bce897-8313-4183-9054-4e2c492be9e3
+DTSTAMP:20261116T074139Z
+UID:cab0f434-5138-4006-bb13-5183594dfdf5
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 19-21\, 2024\n📍 Location: Seattle\, USA (Hybrid)\n
  ⏰ Original Deadline (UTC-8): 2023-11-17 23:59:59\nCategory: 人工智能
@@ -1756,8 +1798,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2025 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20241107T235959
 DTEND;TZID="UTC-08:00":20241108T000059
-DTSTAMP:20261115T073556Z
-UID:b9f27e5f-427a-45ee-b192-f1968929c61b
+DTSTAMP:20261116T074139Z
+UID:27d01ae8-f8aa-4594-a2ee-215203e3946a
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 13-15\, 2025\n📍 Location: Nashville\, Tennessee\, 
  USA (Hybrid)\n⏰ Original Deadline (UTC-8): 2024-11-07 23:59:59\nCategory
@@ -1771,8 +1813,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2025 Paper Deadline
 DTSTART;TZID="UTC-08:00":20241114T235959
 DTEND;TZID="UTC-08:00":20241115T000059
-DTSTAMP:20261115T073556Z
-UID:c7fead51-07c6-4724-97bd-da76c788a8e4
+DTSTAMP:20261116T074139Z
+UID:6346af23-cdac-4025-bd01-dc431ac287f9
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 13-15\, 2025\n📍 Location: Nashville\, Tennessee\, 
  USA (Hybrid)\n⏰ Original Deadline (UTC-8): 2024-11-14 23:59:59\nCategory
@@ -1786,8 +1828,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20251107T235959
 DTEND;TZID="UTC-12:00":20251108T000059
-DTSTAMP:20261115T073556Z
-UID:d81d6e66-daf4-4b87-8e9d-ffaf42df2568
+DTSTAMP:20261116T074139Z
+UID:ef761f32-ccf1-447b-bec1-33f86a403695
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 5-7\, 2026\n📍 Location: Denver\, Colorado\, United
   States (Hybrid)\n⏰ Original Deadline (UTC-12): 2025-11-07 23:59:59\nCat
@@ -1801,8 +1843,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20251113T235959
 DTEND;TZID="UTC-12:00":20251114T000059
-DTSTAMP:20261115T073556Z
-UID:4f5299bf-0dba-45ca-9668-ca4216e6204d
+DTSTAMP:20261116T074139Z
+UID:a69c6f61-6722-421f-901a-bc6602e6e245
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 5-7\, 2026\n📍 Location: Denver\, Colorado\, United
   States (Hybrid)\n⏰ Original Deadline (UTC-12): 2025-11-13 23:59:59\nCat
@@ -1816,8 +1858,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2027 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20261110T235959
 DTEND;TZID="UTC-12:00":20261111T000059
-DTSTAMP:20261115T073556Z
-UID:02d6f995-3a8f-431f-b005-8480efe14501
+DTSTAMP:20261116T074139Z
+UID:17783544-7d8c-4e68-bea7-22d5b43d6449
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 22-25\, 2027\n📍 Location: Seattle\, WA\, United St
  ates\n⏰ Original Deadline (UTC-12): 2026-11-10 23:59:59\nCategory: 人
@@ -1830,8 +1872,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20261116T235959
 DTEND;TZID="UTC-12:00":20261117T000059
-DTSTAMP:20261115T073556Z
-UID:c7f8f16d-5093-444e-b12e-061f4477c796
+DTSTAMP:20261116T074139Z
+UID:96e146ae-2c6d-422f-9526-7989d7d41898
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 22-25\, 2027\n📍 Location: Seattle\, WA\, United St
  ates\n⏰ Original Deadline (UTC-12): 2026-11-16 23:59:59\nCategory: 人
@@ -1844,8 +1886,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2027 Rebuttal Deadline
 DTSTART;TZID="UTC-12:00":20270201T235959
 DTEND;TZID="UTC-12:00":20270202T000059
-DTSTAMP:20261115T073556Z
-UID:c757e7a0-8508-454d-ba31-2b3cd8d6ecb5
+DTSTAMP:20261116T074139Z
+UID:007c69c2-67d3-4785-8f82-ccd7f5f1ad14
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 22-25\, 2027\n📍 Location: Seattle\, WA\, United St
  ates\n⏰ Original Deadline (UTC-12): 2027-02-01 23:59:59\nCategory: 人
@@ -1858,8 +1900,8 @@ BEGIN:VEVENT
 SUMMARY:CVPR 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20270225T235959
 DTEND;TZID="UTC-12:00":20270226T000059
-DTSTAMP:20261115T073556Z
-UID:bdccda7a-2fda-48b1-b745-b4e829f14796
+DTSTAMP:20261116T074139Z
+UID:cab61b36-1999-4aca-807f-89cd8a19376d
 DESCRIPTION:IEEE/CVF Conference on Computer Vision and Pattern Recognition
  \n🗓️ Date: June 22-25\, 2027\n📍 Location: Seattle\, WA\, United St
  ates\n⏰ Original Deadline (UTC-12): 2027-02-25 23:59:59\nCategory: 人
@@ -1872,8 +1914,8 @@ BEGIN:VEVENT
 SUMMARY:ECCV 2022 Paper Deadline
 DTSTART;TZID="UTC-08:00":20220307T115900
 DTEND;TZID="UTC-08:00":20220307T120000
-DTSTAMP:20261115T073556Z
-UID:54768d45-4750-4169-867f-710dba2019a5
+DTSTAMP:20261116T074139Z
+UID:260fd061-a6ce-4b71-9c53-c3affcb3c9fa
 DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: October 
  25-27\, 2022\n📍 Location: Tel-Aviv\, Israel (Hybrid)\n⏰ Original Dead
  line (UTC-8): 2022-03-07 11:59:00\nCategory: 人工智能 (AI)\nCCF B\, CO
@@ -1886,8 +1928,8 @@ BEGIN:VEVENT
 SUMMARY:ECCV 2024 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20240229T130000
 DTEND;TZID="UTC-08:00":20240229T130100
-DTSTAMP:20261115T073556Z
-UID:838738aa-fb4e-4ee6-ba41-640b40e68535
+DTSTAMP:20261116T074139Z
+UID:15868911-f795-4711-82fd-20d9d8877f60
 DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: October 
  1-4\, 2024\n📍 Location: MiCo Milano\, Italy\n⏰ Original Deadline (UTC
  -8): 2024-02-29 13:00:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, T
@@ -1900,8 +1942,8 @@ BEGIN:VEVENT
 SUMMARY:ECCV 2024 Paper Deadline
 DTSTART;TZID="UTC-08:00":20240307T130000
 DTEND;TZID="UTC-08:00":20240307T130100
-DTSTAMP:20261115T073556Z
-UID:fa844df2-b7e5-417d-b45b-82fc28f7aae3
+DTSTAMP:20261116T074139Z
+UID:d51d846d-43d8-48e7-a2a4-8b1119aea320
 DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: October 
  1-4\, 2024\n📍 Location: MiCo Milano\, Italy\n⏰ Original Deadline (UTC
  -8): 2024-03-07 13:00:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, T
@@ -1914,8 +1956,8 @@ BEGIN:VEVENT
 SUMMARY:ECCV 2026 Abstract Deadline
 DTSTART;TZID="UTC-08:00":20260226T140000
 DTEND;TZID="UTC-08:00":20260226T140100
-DTSTAMP:20261115T073556Z
-UID:c44d001e-5e59-46b6-9e31-3e58cb986adc
+DTSTAMP:20261116T074139Z
+UID:a3513baa-c850-409e-82c3-ce6d1b01dbf3
 DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: Septembe
  r 10-12\, 2026\n📍 Location: Malmö\, Sweden\n⏰ Original Deadline (UTC
  -8): 2026-02-26 14:00:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, T
@@ -1928,8 +1970,8 @@ BEGIN:VEVENT
 SUMMARY:ECCV 2026 Paper Deadline
 DTSTART;TZID="UTC-08:00":20260305T140000
 DTEND;TZID="UTC-08:00":20260305T140100
-DTSTAMP:20261115T073556Z
-UID:68037309-c0fe-4dc7-b764-b4411c9a23f1
+DTSTAMP:20261116T074139Z
+UID:10d09433-53bf-4b42-b397-1c9f0cf18792
 DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: Septembe
  r 10-12\, 2026\n📍 Location: Malmö\, Sweden\n⏰ Original Deadline (UTC
  -8): 2026-03-05 14:00:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, T
@@ -1942,8 +1984,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2021 Abstract Deadline
 DTSTART:20210521T200000Z
 DTEND:20210521T200100Z
-DTSTAMP:20261115T073556Z
-UID:56e32596-4e67-455a-88d9-848b6965cd40
+DTSTAMP:20261116T074139Z
+UID:58e65da6-1dd1-4e4f-b632-ed9bf49b8127
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 7-10\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (
  UTC+0): 2021-05-21 20:00:00\nCategory: 人工智能 (AI)\nCCF A\, CORE A*
@@ -1956,8 +1998,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2021 Paper Deadline
 DTSTART:20210528T200000Z
 DTEND:20210528T200100Z
-DTSTAMP:20261115T073556Z
-UID:697c12a5-1d25-40ce-ac40-0ab7a9ca15dc
+DTSTAMP:20261116T074139Z
+UID:96306e49-d005-4d98-a093-1904167750e9
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 7-10\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (
  UTC+0): 2021-05-28 20:00:00\nCategory: 人工智能 (AI)\nCCF A\, CORE A*
@@ -1970,8 +2012,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2022 Abstract Deadline
 DTSTART:20220516T200000Z
 DTEND:20220516T200100Z
-DTSTAMP:20261115T073556Z
-UID:0ec6c005-e27e-462d-9661-ce246deae92c
+DTSTAMP:20261116T074139Z
+UID:6cfde049-3202-4bf9-ba92-930c246f0c6b
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: November 28-December 1 (In-person) and December 6-8 (Virtual)\, 2022
  \n📍 Location: New Orleans\, Louisiana\, USA (Hybrid)\n⏰ Original Dead
@@ -1985,8 +2027,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2022 Paper Deadline
 DTSTART:20220519T200000Z
 DTEND:20220519T200100Z
-DTSTAMP:20261115T073556Z
-UID:9586ceb6-2565-4848-943d-66db5e2a36f2
+DTSTAMP:20261116T074139Z
+UID:1a3bdcc3-9829-46b5-9b6a-ab466e8f49c2
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: November 28-December 1 (In-person) and December 6-8 (Virtual)\, 2022
  \n📍 Location: New Orleans\, Louisiana\, USA (Hybrid)\n⏰ Original Dead
@@ -2000,8 +2042,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2023 Abstract Deadline
 DTSTART:20230511T200000Z
 DTEND:20230511T200100Z
-DTSTAMP:20261115T073556Z
-UID:e80734b3-d391-494c-bba1-f49a71ff2332
+DTSTAMP:20261116T074139Z
+UID:ff26d795-4068-4149-bd70-0c8a4d935e11
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 12-14\, 2023\n📍 Location: New Orleans\, Louisiana\, USA\n
  ⏰ Original Deadline (UTC+0): 2023-05-11 20:00:00\nCategory: 人工智能
@@ -2014,8 +2056,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2023 Paper Deadline
 DTSTART:20230517T200000Z
 DTEND:20230517T200100Z
-DTSTAMP:20261115T073556Z
-UID:bc27b884-22ce-454e-b2fa-0635f75520b5
+DTSTAMP:20261116T074139Z
+UID:2bd3993a-99f8-4eec-9ed8-7dbe26d728b3
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 12-14\, 2023\n📍 Location: New Orleans\, Louisiana\, USA\n
  ⏰ Original Deadline (UTC+0): 2023-05-17 20:00:00\nCategory: 人工智能
@@ -2028,8 +2070,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2024 Abstract Deadline
 DTSTART:20240515T200000Z
 DTEND:20240515T200100Z
-DTSTAMP:20261115T073556Z
-UID:aa79cfa3-c682-45bb-b3bc-af51bc98d325
+DTSTAMP:20261116T074139Z
+UID:5a253081-9940-4c62-a971-ef4e93bab12b
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 11-13\, 2024\n📍 Location: Vancouver\, Canada\n⏰ Origina
  l Deadline (UTC+0): 2024-05-15 20:00:00\nCategory: 人工智能 (AI)\nCCF 
@@ -2042,8 +2084,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2024 Paper Deadline
 DTSTART:20240522T200000Z
 DTEND:20240522T200100Z
-DTSTAMP:20261115T073556Z
-UID:190caada-31b6-4713-bece-2980d3da11c0
+DTSTAMP:20261116T074139Z
+UID:6da742a4-0769-4fcb-93cb-10283eff8f68
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 11-13\, 2024\n📍 Location: Vancouver\, Canada\n⏰ Origina
  l Deadline (UTC+0): 2024-05-22 20:00:00\nCategory: 人工智能 (AI)\nCCF 
@@ -2056,8 +2098,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2025 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20250511T235959
 DTEND;TZID="UTC-12:00":20250512T000059
-DTSTAMP:20261115T073556Z
-UID:e83b0915-222f-4383-9a7a-18e1043d3d08
+DTSTAMP:20261116T074139Z
+UID:c3723849-5c72-4549-87f5-86295aec71fd
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 3-5 (San Diego and Mexico City)\, 2025\n📍 Location: San D
  iego Convention Center\, USA\; Mexico City\, Mexico\n⏰ Original Deadline
@@ -2071,8 +2113,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2025 Paper Deadline
 DTSTART;TZID="UTC-12:00":20250515T235959
 DTEND;TZID="UTC-12:00":20250516T000059
-DTSTAMP:20261115T073556Z
-UID:93c1215e-2809-4d0c-b405-f124bacb928f
+DTSTAMP:20261116T074139Z
+UID:1be4b459-8f10-4de4-80c4-31497082ce4c
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 3-5 (San Diego and Mexico City)\, 2025\n📍 Location: San D
  iego Convention Center\, USA\; Mexico City\, Mexico\n⏰ Original Deadline
@@ -2086,8 +2128,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2026 Abstract Deadline
 DTSTART:20260505T115900Z
 DTEND:20260505T120000Z
-DTSTAMP:20261115T073556Z
-UID:789fa825-6472-4d9e-a849-4d34a372eb6f
+DTSTAMP:20261116T074139Z
+UID:895eda22-ceb6-4bef-9b52-ccc335c068ff
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 8-10 (Sydney)\, December 9-11 (Atlanta and Paris)\, 2026\n
  📍 Location: Sydney\, Australia\; Atlanta\, USA\; Paris\, France\n⏰ Or
@@ -2101,8 +2143,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2026 Paper Deadline
 DTSTART:20260507T115959Z
 DTEND:20260507T120059Z
-DTSTAMP:20261115T073556Z
-UID:6fb9c75d-e931-40f8-ae9c-1727629eb446
+DTSTAMP:20261116T074139Z
+UID:2c9051a1-471c-4b4a-953e-5a72c2d0c3a5
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 8-10 (Sydney)\, December 9-11 (Atlanta and Paris)\, 2026\n
  📍 Location: Sydney\, Australia\; Atlanta\, USA\; Paris\, France\n⏰ Or
@@ -2116,8 +2158,8 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2026 Decision Notification
 DTSTART:20260925T115959Z
 DTEND:20260925T120059Z
-DTSTAMP:20261115T073556Z
-UID:6c4e931c-0a8c-4658-9e8f-910a1875f8b7
+DTSTAMP:20261116T074139Z
+UID:22ed49c1-83db-451c-9419-ba252d69f7ef
 DESCRIPTION:Conference on Neural Information Processing Systems\n🗓️ D
  ate: December 8-10 (Sydney)\, December 9-11 (Atlanta and Paris)\, 2026\n
  📍 Location: Sydney\, Australia\; Atlanta\, USA\; Paris\, France\n⏰ Or
@@ -2131,8 +2173,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2021 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20210125T235959
 DTEND;TZID="UTC-12:00":20210126T000059
-DTSTAMP:20261115T073556Z
-UID:1bab1b7a-7a34-43ae-b12d-7094efa1265e
+DTSTAMP:20261116T074139Z
+UID:ebcf6f37-a580-4ad8-9e39-fa35f402b91c
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: August 2-4\, 2021\n📍 Location: Virtual\n⏰ Original D
  eadline (UTC-12): 2021-01-25 23:59:59\nCategory: 人工智能 (AI)\nCCF A
@@ -2145,8 +2187,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20210202T235959
 DTEND;TZID="UTC-12:00":20210203T000059
-DTSTAMP:20261115T073556Z
-UID:49718b1c-1356-4702-bac7-6b9c7d4c3ab8
+DTSTAMP:20261116T074139Z
+UID:e549c974-4f6b-4375-b3ca-15ba11972f65
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: August 2-4\, 2021\n📍 Location: Virtual\n⏰ Original D
  eadline (UTC-12): 2021-02-02 23:59:59\nCategory: 人工智能 (AI)\nCCF A
@@ -2159,8 +2201,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline [ARR May cycle]
 DTSTART;TZID="UTC-12:00":20210515T235959
 DTEND;TZID="UTC-12:00":20210516T000059
-DTSTAMP:20261115T073556Z
-UID:a21e68b7-1ae6-48e4-a4f4-102fa7ff1a05
+DTSTAMP:20261116T074139Z
+UID:a53ece8e-cede-4302-9d8d-e0f6d280f0a8
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-05-15 23:59:59\nCategory: 人工
@@ -2173,8 +2215,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline [ARR June cycle]
 DTSTART;TZID="UTC-12:00":20210615T235959
 DTEND;TZID="UTC-12:00":20210616T000059
-DTSTAMP:20261115T073556Z
-UID:895a007e-c7cb-4fb0-9b4c-2d2b795c3a4d
+DTSTAMP:20261116T074139Z
+UID:858cf53e-1f2f-44da-9273-d4d0d73ba3e0
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-06-15 23:59:59\nCategory: 人工
@@ -2187,8 +2229,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline [ARR July cycle]
 DTSTART;TZID="UTC-12:00":20210715T235959
 DTEND;TZID="UTC-12:00":20210716T000059
-DTSTAMP:20261115T073556Z
-UID:defb9167-99cc-4817-8f8a-693c38f0cacd
+DTSTAMP:20261116T074139Z
+UID:cbc25015-1942-4a51-a7cc-7dea8df72c7d
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-07-15 23:59:59\nCategory: 人工
@@ -2201,8 +2243,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline [ARR August cycle]
 DTSTART;TZID="UTC-12:00":20210815T235959
 DTEND;TZID="UTC-12:00":20210816T000059
-DTSTAMP:20261115T073556Z
-UID:b653c74f-9900-4c98-bac4-7eb47628b1f6
+DTSTAMP:20261116T074139Z
+UID:c315cee2-8763-4695-a99a-af75433c7f8c
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-08-15 23:59:59\nCategory: 人工
@@ -2215,8 +2257,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline
 DTSTART;TZID="UTC-12:00":20210915T235959
 DTEND;TZID="UTC-12:00":20210916T000059
-DTSTAMP:20261115T073556Z
-UID:19b8d4c7-1c41-481c-bdb6-90a02b5c1ed0
+DTSTAMP:20261116T074139Z
+UID:11171526-d35f-4610-95da-f6eb87ca906c
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-09-15 23:59:59\nCategory: 人工
@@ -2229,8 +2271,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline
 DTSTART;TZID="UTC-12:00":20211015T235959
 DTEND;TZID="UTC-12:00":20211016T000059
-DTSTAMP:20261115T073556Z
-UID:8f53f799-771e-45d4-9281-8e9f1e9e8cf3
+DTSTAMP:20261116T074139Z
+UID:9b20c697-e4c2-4c52-a292-0791a732abf2
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-10-15 23:59:59\nCategory: 人工
@@ -2243,8 +2285,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline [Final ARR submission]
 DTSTART;TZID="UTC-12:00":20211115T235959
 DTEND;TZID="UTC-12:00":20211116T000059
-DTSTAMP:20261115T073556Z
-UID:d2ba69f3-88ca-4825-aacd-9b643092f5fd
+DTSTAMP:20261116T074139Z
+UID:2f8db76e-164b-4bd0-b0e0-b23ef66f10ad
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2021-11-15 23:59:59\nCategory: 人工
@@ -2257,8 +2299,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2022 Paper Deadline [ARR commitment\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20220115T235959
 DTEND;TZID="UTC-12:00":20220116T000059
-DTSTAMP:20261115T073556Z
-UID:54b7b864-1d39-49f1-9cfc-ca65eaa4ad73
+DTSTAMP:20261116T074139Z
+UID:4b38ffd2-39d5-4edf-8ae5-d9f0f2c012b5
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: May 23-25\, 2022\n📍 Location: Dublin\, Ireland (Hybrid
  )\n⏰ Original Deadline (UTC-12): 2022-01-15 23:59:59\nCategory: 人工
@@ -2271,8 +2313,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2023 Paper Deadline [ARR submission]
 DTSTART;TZID="UTC-12:00":20221215T235959
 DTEND;TZID="UTC-12:00":20221216T000059
-DTSTAMP:20261115T073556Z
-UID:23bdd662-503f-4593-bf82-32f2f17ebf16
+DTSTAMP:20261116T074139Z
+UID:7fa709c6-859c-464e-bde6-2b7d307819e1
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 10-12\, 2023\n📍 Location: Toronto\, Canada (Hybri
  d)\n⏰ Original Deadline (UTC-12): 2022-12-15 23:59:59\nCategory: 人工
@@ -2285,8 +2327,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2023 Abstract Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20230113T235959
 DTEND;TZID="UTC-12:00":20230114T000059
-DTSTAMP:20261115T073556Z
-UID:d5e8e139-6aab-4795-819f-6686239c0a3b
+DTSTAMP:20261116T074139Z
+UID:1fbb817c-7952-4670-a031-d31dca748bac
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 10-12\, 2023\n📍 Location: Toronto\, Canada (Hybri
  d)\n⏰ Original Deadline (UTC-12): 2023-01-13 23:59:59\nCategory: 人工
@@ -2299,8 +2341,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2023 Paper Deadline [Direct submission]
 DTSTART;TZID="UTC-12:00":20230120T235959
 DTEND;TZID="UTC-12:00":20230121T000059
-DTSTAMP:20261115T073556Z
-UID:4f51f73a-ec62-4a8c-9418-356bdab98261
+DTSTAMP:20261116T074139Z
+UID:608d4954-34c2-4571-bc3b-70ffef42989a
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 10-12\, 2023\n📍 Location: Toronto\, Canada (Hybri
  d)\n⏰ Original Deadline (UTC-12): 2023-01-20 23:59:59\nCategory: 人工
@@ -2313,8 +2355,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2023 Paper Deadline [ARR commitment\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20230317T235959
 DTEND;TZID="UTC-12:00":20230318T000059
-DTSTAMP:20261115T073556Z
-UID:97a42598-a36e-4536-8530-9e34a7370b6b
+DTSTAMP:20261116T074139Z
+UID:e7b4020e-bfc8-41ac-b089-06234b69b634
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 10-12\, 2023\n📍 Location: Toronto\, Canada (Hybri
  d)\n⏰ Original Deadline (UTC-12): 2023-03-17 23:59:59\nCategory: 人工
@@ -2327,8 +2369,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2024 Paper Deadline [ARR submission]
 DTSTART;TZID="UTC-12:00":20240215T235959
 DTEND;TZID="UTC-12:00":20240216T000059
-DTSTAMP:20261115T073556Z
-UID:301706e5-7c57-4540-85ef-0f9b8cf77261
+DTSTAMP:20261116T074139Z
+UID:aaa4c27b-b470-4325-89bd-451a00ed6e5e
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: August 12-14\, 2024\n📍 Location: Bangkok\, Thailand\n
  ⏰ Original Deadline (UTC-12): 2024-02-15 23:59:59\nCategory: 人工智
@@ -2341,8 +2383,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2024 Paper Deadline [ARR commitment\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20240420T235959
 DTEND;TZID="UTC-12:00":20240421T000059
-DTSTAMP:20261115T073556Z
-UID:2ad8f515-3234-45fa-951b-977f967bd5c4
+DTSTAMP:20261116T074139Z
+UID:7545c58f-60d6-464c-b39a-461edf819e02
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: August 12-14\, 2024\n📍 Location: Bangkok\, Thailand\n
  ⏰ Original Deadline (UTC-12): 2024-04-20 23:59:59\nCategory: 人工智
@@ -2355,8 +2397,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2025 Paper Deadline [ARR submission]
 DTSTART;TZID="UTC-12:00":20250215T235959
 DTEND;TZID="UTC-12:00":20250216T000059
-DTSTAMP:20261115T073556Z
-UID:5cdcff24-6b84-43df-9071-206ba889faae
+DTSTAMP:20261116T074139Z
+UID:c47dafe4-5001-4913-af93-e2f8f81726db
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 28-30\, 2025\n📍 Location: Vienna\, Austria (Hybri
  d)\n⏰ Original Deadline (UTC-12): 2025-02-15 23:59:59\nCategory: 人工
@@ -2369,8 +2411,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2025 Paper Deadline [ARR commitment\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20250420T235959
 DTEND;TZID="UTC-12:00":20250421T000059
-DTSTAMP:20261115T073556Z
-UID:20002a13-08c9-402b-8d6d-5f34d955e9fd
+DTSTAMP:20261116T074139Z
+UID:0a59bb0d-2104-439c-a5cb-990fe73ff7d3
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 28-30\, 2025\n📍 Location: Vienna\, Austria (Hybri
  d)\n⏰ Original Deadline (UTC-12): 2025-04-20 23:59:59\nCategory: 人工
@@ -2383,8 +2425,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2026 Paper Deadline [ARR October cycle]
 DTSTART;TZID="UTC-12:00":20251006T235959
 DTEND;TZID="UTC-12:00":20251007T000059
-DTSTAMP:20261115T073556Z
-UID:1febab55-b47d-469c-b9c0-b09deb0511eb
+DTSTAMP:20261116T074139Z
+UID:249c59d9-784f-47bc-9a78-4e74aca5ee5e
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 5-7\, 2026\n📍 Location: San Diego\, California\, 
  United States (Hybrid)\n⏰ Original Deadline (UTC-12): 2025-10-06 23:59:5
@@ -2397,8 +2439,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2026 Paper Deadline [ARR January cycle]
 DTSTART;TZID="UTC-12:00":20260105T235959
 DTEND;TZID="UTC-12:00":20260106T000059
-DTSTAMP:20261115T073556Z
-UID:ca60b177-2d52-4e1f-a898-aab7999bb810
+DTSTAMP:20261116T074139Z
+UID:16754995-12af-43e1-8753-b568bf5759ce
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 5-7\, 2026\n📍 Location: San Diego\, California\, 
  United States (Hybrid)\n⏰ Original Deadline (UTC-12): 2026-01-05 23:59:5
@@ -2411,8 +2453,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2026 Paper Deadline [ARR commitment\; reviewed papers only]
 DTSTART;TZID="UTC-12:00":20260314T235959
 DTEND;TZID="UTC-12:00":20260315T000059
-DTSTAMP:20261115T073556Z
-UID:24900936-6585-442c-9573-1b8fbf5ef4c7
+DTSTAMP:20261116T074139Z
+UID:80634bdb-51d7-4f1b-a4c9-ba2823915704
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: July 5-7\, 2026\n📍 Location: San Diego\, California\, 
  United States (Hybrid)\n⏰ Original Deadline (UTC-12): 2026-03-14 23:59:5
@@ -2425,8 +2467,8 @@ BEGIN:VEVENT
 SUMMARY:ACL 2027 Paper Deadline [ARR Submission]
 DTSTART;TZID="UTC-12:00":20270104T235959
 DTEND;TZID="UTC-12:00":20270105T000059
-DTSTAMP:20261115T073556Z
-UID:a23ca284-3a1b-4da9-b514-cdc497353752
+DTSTAMP:20261116T074139Z
+UID:db6d5e66-298d-4f3f-b5df-46a9d859a1fd
 DESCRIPTION:Annual Meeting of the Association for Computational Linguistic
  s\n🗓️ Date: August 20-22\, 2027\n📍 Location: Kyoto\, Japan\n⏰ Or
  iginal Deadline (UTC-12): 2027-01-04 23:59:59\nCategory: 人工智能 (AI)
@@ -2439,8 +2481,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2021 Abstract Deadline
 DTSTART;TZID="UTC-07:00":20200928T080000
 DTEND;TZID="UTC-07:00":20200928T080100
-DTSTAMP:20261115T073556Z
-UID:d097c320-39dd-46eb-b883-22a6a91389f2
+DTSTAMP:20261116T074139Z
+UID:e3772108-bc28-4955-a787-e88e0660acac
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: May 3-7\, 2021\n📍 Location: Virtual conference\n⏰ Original Dead
  line (UTC-7): 2020-09-28 08:00:00\nCategory: 人工智能 (AI)\nCCF A\, CO
@@ -2453,8 +2495,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2021 Paper Deadline
 DTSTART;TZID="UTC-07:00":20201002T080000
 DTEND;TZID="UTC-07:00":20201002T080100
-DTSTAMP:20261115T073556Z
-UID:18842210-4d1e-41ed-a36a-0044cde1eb87
+DTSTAMP:20261116T074139Z
+UID:d1f66a39-1f28-4eb7-8fb7-a87952434ac9
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: May 3-7\, 2021\n📍 Location: Virtual conference\n⏰ Original Dead
  line (UTC-7): 2020-10-02 08:00:00\nCategory: 人工智能 (AI)\nCCF A\, CO
@@ -2467,8 +2509,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2022 Abstract Deadline
 DTSTART;TZID="UTC-07:00":20210928T170000
 DTEND;TZID="UTC-07:00":20210928T170100
-DTSTAMP:20261115T073556Z
-UID:4fb242c7-39a5-4a29-acbf-ac8a24234cf3
+DTSTAMP:20261116T074139Z
+UID:62c3f991-9fe1-4644-b7fc-01a5d95c2c65
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 25-29\, 2022\n📍 Location: Virtual conference\n⏰ Original 
  Deadline (UTC-7): 2021-09-28 17:00:00\nCategory: 人工智能 (AI)\nCCF A
@@ -2481,8 +2523,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2022 Paper Deadline
 DTSTART;TZID="UTC-07:00":20211005T170000
 DTEND;TZID="UTC-07:00":20211005T170100
-DTSTAMP:20261115T073556Z
-UID:eb22bbdd-de45-471e-881f-96ef2df6147e
+DTSTAMP:20261116T074139Z
+UID:574eb947-188c-4c93-9faf-dd24ec38720e
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 25-29\, 2022\n📍 Location: Virtual conference\n⏰ Original 
  Deadline (UTC-7): 2021-10-05 17:00:00\nCategory: 人工智能 (AI)\nCCF A
@@ -2495,8 +2537,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2023 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20220921T235959
 DTEND;TZID="UTC-12:00":20220922T000059
-DTSTAMP:20261115T073556Z
-UID:1b493f13-e91a-4c6f-b34f-50f967dc36e3
+DTSTAMP:20261116T074139Z
+UID:bcbd0b7f-acf3-4c2d-b9f9-4769bb510ed6
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: May 01-04\, 2023\n📍 Location: Kigali\, Rwanda (Hybrid)\n⏰ Origi
  nal Deadline (UTC-12): 2022-09-21 23:59:59\nCategory: 人工智能 (AI)\nC
@@ -2509,8 +2551,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20220928T235959
 DTEND;TZID="UTC-12:00":20220929T000059
-DTSTAMP:20261115T073556Z
-UID:2f7ecdf1-2995-4e96-962a-80cd24d434fa
+DTSTAMP:20261116T074139Z
+UID:3dee8168-6381-4d67-9943-286789357e2d
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: May 01-04\, 2023\n📍 Location: Kigali\, Rwanda (Hybrid)\n⏰ Origi
  nal Deadline (UTC-12): 2022-09-28 23:59:59\nCategory: 人工智能 (AI)\nC
@@ -2523,8 +2565,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20230923T235959
 DTEND;TZID="UTC-12:00":20230924T000059
-DTSTAMP:20261115T073556Z
-UID:7518f3af-f0ba-4c87-b1e5-d5a691186c53
+DTSTAMP:20261116T074139Z
+UID:00be02fe-540b-4ab0-9a4d-15f2797c98ff
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: May 07-10\, 2024\n📍 Location: Vienna\, Austria\n⏰ Original Dead
  line (UTC-12): 2023-09-23 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, C
@@ -2537,8 +2579,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230928T235959
 DTEND;TZID="UTC-12:00":20230929T000059
-DTSTAMP:20261115T073556Z
-UID:17af8028-4113-4239-9840-0dcfc9dc99d5
+DTSTAMP:20261116T074139Z
+UID:018a5ec0-4329-4dd6-8dea-e7d695ac02e9
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: May 07-10\, 2024\n📍 Location: Vienna\, Austria\n⏰ Original Dead
  line (UTC-12): 2023-09-28 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, C
@@ -2551,8 +2593,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2025 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240927T235959
 DTEND;TZID="UTC-12:00":20240928T000059
-DTSTAMP:20261115T073556Z
-UID:9c770f80-e2c1-4847-8d5d-ac534b494af7
+DTSTAMP:20261116T074139Z
+UID:594a8bbd-3e5f-4d34-9010-7aa2a09d3823
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 24-26\, 2025\n📍 Location: Singapore\n⏰ Original Deadline 
  (UTC-12): 2024-09-27 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A
@@ -2565,8 +2607,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2025 Paper Deadline
 DTSTART;TZID="UTC-12:00":20241001T235959
 DTEND;TZID="UTC-12:00":20241002T000059
-DTSTAMP:20261115T073556Z
-UID:a45d0060-11ba-46e6-803e-802af4ce6a72
+DTSTAMP:20261116T074139Z
+UID:078387bd-9822-4a7f-bfa4-33479723d039
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 24-26\, 2025\n📍 Location: Singapore\n⏰ Original Deadline 
  (UTC-12): 2024-10-01 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A
@@ -2579,8 +2621,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20250919T235959
 DTEND;TZID="UTC-12:00":20250920T000059
-DTSTAMP:20261115T073556Z
-UID:1e98e186-a4d0-400c-b7b4-d4361181e93d
+DTSTAMP:20261116T074139Z
+UID:748d4cf8-219f-49ba-a90a-ebba024b7be4
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 23-25\, 2026\n📍 Location: Rio de Janeiro\, Brazil\n⏰ Orig
  inal Deadline (AoE): 2025-09-19 23:59:59\nCategory: 人工智能 (AI)\nCCF
@@ -2593,8 +2635,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20250924T235959
 DTEND;TZID="UTC-12:00":20250925T000059
-DTSTAMP:20261115T073556Z
-UID:4eff8b0e-4c5f-48a9-bcda-53783c6b04ef
+DTSTAMP:20261116T074139Z
+UID:e780b715-4fc4-4d0d-b665-3a9728259261
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 23-25\, 2026\n📍 Location: Rio de Janeiro\, Brazil\n⏰ Orig
  inal Deadline (AoE): 2025-09-24 23:59:59\nCategory: 人工智能 (AI)\nCCF
@@ -2607,8 +2649,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2027 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20260918T235959
 DTEND;TZID="UTC-12:00":20260919T000059
-DTSTAMP:20261115T073556Z
-UID:be56ee35-99ce-4427-aa15-bca285108b11
+DTSTAMP:20261116T074139Z
+UID:0ce4917b-8add-4257-88cc-cb94ae3ad940
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 26-28\, 2027\n📍 Location: San Francisco\, CA\, USA\n⏰ Ori
  ginal Deadline (AoE): 2026-09-18 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -2621,8 +2663,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20260925T235959
 DTEND;TZID="UTC-12:00":20260926T000059
-DTSTAMP:20261115T073556Z
-UID:bcaf9467-a850-48b3-bafd-f422c15ccafa
+DTSTAMP:20261116T074139Z
+UID:eccb2fde-9fa3-4729-bcca-966f94a3c7bf
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 26-28\, 2027\n📍 Location: San Francisco\, CA\, USA\n⏰ Ori
  ginal Deadline (AoE): 2026-09-25 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -2635,8 +2677,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2027 Rebuttal Deadline
 DTSTART;TZID="UTC-12:00":20261118T235959
 DTEND;TZID="UTC-12:00":20261119T000059
-DTSTAMP:20261115T073556Z
-UID:dbc0efdb-3835-4bec-a67d-862324bcca12
+DTSTAMP:20261116T074139Z
+UID:862c0377-769b-4b85-a62f-bb1abaa6a483
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 26-28\, 2027\n📍 Location: San Francisco\, CA\, USA\n⏰ Ori
  ginal Deadline (AoE): 2026-11-18 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -2649,8 +2691,8 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20261216T235959
 DTEND;TZID="UTC-12:00":20261217T000059
-DTSTAMP:20261115T073556Z
-UID:8f392a15-5a55-42c4-9dae-5797507b1f6c
+DTSTAMP:20261116T074139Z
+UID:0c88d75e-46fd-46ac-a6e1-a2adeca13c9c
 DESCRIPTION:International Conference on Learning Representations\n🗓️ 
  Date: April 26-28\, 2027\n📍 Location: San Francisco\, CA\, USA\n⏰ Ori
  ginal Deadline (AoE): 2026-12-16 23:59:59\nCategory: 人工智能 (AI)\nCC
@@ -2663,8 +2705,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2021 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20210202T235959
 DTEND;TZID="UTC-12:00":20210203T000059
-DTSTAMP:20261115T073556Z
-UID:90c150b5-c7b6-48fc-9821-deeb0760a25c
+DTSTAMP:20261116T074139Z
+UID:fcd7788f-e4ae-45a5-8bd5-f8b2962f8057
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 12-14\, 2021\n📍 Location: Virtual\n
  ⏰ Original Deadline (AoE): 2021-02-02 23:59:59\nCategory: 数据库/数
@@ -2677,8 +2719,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20210209T235959
 DTEND;TZID="UTC-12:00":20210210T000059
-DTSTAMP:20261115T073556Z
-UID:4ec01e73-ad7e-45b6-a6ab-9854e3cb1ca9
+DTSTAMP:20261116T074139Z
+UID:6fa71a49-7a92-49a7-b8f1-b87e17fd6ed6
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 12-14\, 2021\n📍 Location: Virtual\n
  ⏰ Original Deadline (AoE): 2021-02-09 23:59:59\nCategory: 数据库/数
@@ -2691,8 +2733,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2022 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20220121T235959
 DTEND;TZID="UTC-12:00":20220122T000059
-DTSTAMP:20261115T073556Z
-UID:673b8c11-0c54-445b-9240-87f3b408b460
+DTSTAMP:20261116T074139Z
+UID:f8aec350-3eff-4e22-baf1-892a19362278
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 7 (online) and July 12-14\, 2022\n📍 
  Location: Madrid / Online\n⏰ Original Deadline (AoE): 2022-01-21 23:59:5
@@ -2706,8 +2748,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2022 Paper Deadline
 DTSTART;TZID="UTC-12:00":20220128T235959
 DTEND;TZID="UTC-12:00":20220129T000059
-DTSTAMP:20261115T073556Z
-UID:8a2254c1-4884-42b2-9c98-ad6297675c52
+DTSTAMP:20261116T074139Z
+UID:af7ffabb-234f-44fb-9a46-f9576b4f3b53
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 7 (online) and July 12-14\, 2022\n📍 
  Location: Madrid / Online\n⏰ Original Deadline (AoE): 2022-01-28 23:59:5
@@ -2721,8 +2763,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2023 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20230124T235959
 DTEND;TZID="UTC-12:00":20230125T000059
-DTSTAMP:20261115T073556Z
-UID:8cbabdad-cd6f-44a8-a33b-e76c279b5966
+DTSTAMP:20261116T074139Z
+UID:3f411043-acd2-426c-8e55-bd305c8e15ae
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 24-26\, 2023\n📍 Location: Taipei\, T
  aiwan / Online\n⏰ Original Deadline (AoE): 2023-01-24 23:59:59\nCategory
@@ -2736,8 +2778,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230131T235959
 DTEND;TZID="UTC-12:00":20230201T000059
-DTSTAMP:20261115T073556Z
-UID:70461f02-c906-4fee-94f0-02f94098e042
+DTSTAMP:20261116T074139Z
+UID:47fd1ec4-b6d5-4e8a-be42-e7a009b8cb70
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 24-26\, 2023\n📍 Location: Taipei\, T
  aiwan / Online\n⏰ Original Deadline (AoE): 2023-01-31 23:59:59\nCategory
@@ -2751,8 +2793,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240118T235959
 DTEND;TZID="UTC-12:00":20240119T000059
-DTSTAMP:20261115T073556Z
-UID:91d31bb9-5be7-4e2b-bb12-7e831e34d872
+DTSTAMP:20261116T074139Z
+UID:ae5c641b-de34-44f8-831f-53ccb9defb63
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 15-17\, 2024\n📍 Location: Washington
   D.C.\, USA\n⏰ Original Deadline (AoE): 2024-01-18 23:59:59\nCategory: 
@@ -2766,8 +2808,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20240125T235959
 DTEND;TZID="UTC-12:00":20240126T000059
-DTSTAMP:20261115T073556Z
-UID:dc446f30-0912-4523-a407-aef334d1fbe4
+DTSTAMP:20261116T074139Z
+UID:5914e81f-a4e4-4a7f-b3a6-2a8dc57af323
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 15-17\, 2024\n📍 Location: Washington
   D.C.\, USA\n⏰ Original Deadline (AoE): 2024-01-25 23:59:59\nCategory: 
@@ -2781,8 +2823,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2025 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20250116T235959
 DTEND;TZID="UTC-12:00":20250117T000059
-DTSTAMP:20261115T073556Z
-UID:8c02c883-67a0-4f3d-a1dc-b34eb4ef23f8
+DTSTAMP:20261116T074139Z
+UID:0ecf9506-6e2a-4027-9f19-5d5927940f7c
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 14-16\, 2025\n📍 Location: Padova\, I
  taly\n⏰ Original Deadline (AoE): 2025-01-16 23:59:59\nCategory: 数据
@@ -2796,8 +2838,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2025 Paper Deadline
 DTSTART;TZID="UTC-12:00":20250123T235959
 DTEND;TZID="UTC-12:00":20250124T000059
-DTSTAMP:20261115T073556Z
-UID:7eb4d64d-d03d-4192-940a-33bc0ea2109d
+DTSTAMP:20261116T074139Z
+UID:89a5a2e0-3f7c-41ae-a38e-5065b5eba04c
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 14-16\, 2025\n📍 Location: Padova\, I
  taly\n⏰ Original Deadline (AoE): 2025-01-23 23:59:59\nCategory: 数据
@@ -2811,8 +2853,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20260115T235959
 DTEND;TZID="UTC-12:00":20260116T000059
-DTSTAMP:20261115T073556Z
-UID:10091d85-72cc-4bdc-8e33-92e04b4d22b0
+DTSTAMP:20261116T074139Z
+UID:323297ed-30fe-41f6-82c4-f3946a77b2be
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 21-23\, 2026\n📍 Location: Melbourne
  \, Australia\n⏰ Original Deadline (AoE): 2026-01-15 23:59:59\nCategory: 
@@ -2826,8 +2868,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20260122T235959
 DTEND;TZID="UTC-12:00":20260123T000059
-DTSTAMP:20261115T073556Z
-UID:5e7da7b8-b728-4ff7-8514-9dd15be7f924
+DTSTAMP:20261116T074139Z
+UID:ebcfa93c-fb52-4212-8482-bdd39fd1886b
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 21-23\, 2026\n📍 Location: Melbourne
  \, Australia\n⏰ Original Deadline (AoE): 2026-01-22 23:59:59\nCategory: 
@@ -2841,8 +2883,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2027 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20270114T235959
 DTEND;TZID="UTC-12:00":20270115T000059
-DTSTAMP:20261115T073556Z
-UID:50f14491-10d9-4058-8e99-85fbada647a7
+DTSTAMP:20261116T074139Z
+UID:701cf13e-dbdc-40c1-baab-d6f8727f0fcd
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 18-24\, 2027\n📍 Location: San Jose\,
   California\, USA\n⏰ Original Deadline (AoE): 2027-01-14 23:59:59\nCateg
@@ -2856,8 +2898,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20270121T235959
 DTEND;TZID="UTC-12:00":20270122T000059
-DTSTAMP:20261115T073556Z
-UID:554b05e4-4716-4d01-8d3e-b490e5da031c
+DTSTAMP:20261116T074139Z
+UID:b78937ff-a625-4e42-8ed4-102f426a894d
 DESCRIPTION:International Conference on Research on Development in Informa
  tion Retrieval\n🗓️ Date: July 18-24\, 2027\n📍 Location: San Jose\,
   California\, USA\n⏰ Original Deadline (AoE): 2027-01-21 23:59:59\nCateg
@@ -2871,8 +2913,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20210208T235959
 DTEND;TZID="UTC-12:00":20210209T000059
-DTSTAMP:20261115T073556Z
-UID:e36179be-319a-4008-bf65-accbd6521dbb
+DTSTAMP:20261116T074139Z
+UID:7c261d7a-9474-4f60-873a-08c806935e72
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  14-18\, 2021\n📍 Location: Online\n⏰ Original Deadline (AoE): 2021-02-
  08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, C
@@ -2885,8 +2927,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2022 Paper Deadline
 DTSTART;TZID="UTC-12:00":20220210T235959
 DTEND;TZID="UTC-12:00":20220211T000059
-DTSTAMP:20261115T073556Z
-UID:fbf5a4bf-8fb5-4e26-bf88-52fa528dd02d
+DTSTAMP:20261116T074139Z
+UID:8f812bd3-b018-4b9a-862d-ed5dbdc68eee
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  15-18\, 2022\n📍 Location: Washington DC Convention Center\, USA\n⏰ Or
  iginal Deadline (AoE): 2022-02-10 23:59:59\nCategory: 数据库/数据挖
@@ -2899,8 +2941,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230202T235959
 DTEND;TZID="UTC-12:00":20230203T000059
-DTSTAMP:20261115T073556Z
-UID:59ef02dc-fec9-4889-b4de-6fb1aa46a149
+DTSTAMP:20261116T074139Z
+UID:4978a052-f851-40a1-b67d-bb031884b186
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  7-10\, 2023\n📍 Location: Long Beach Convention & Entertainment Center\,
   USA\n⏰ Original Deadline (AoE): 2023-02-02 23:59:59\nCategory: 数据
@@ -2914,8 +2956,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240201T235959
 DTEND;TZID="UTC-12:00":20240202T000059
-DTSTAMP:20261115T073556Z
-UID:ff3c4dab-2535-40ac-97fc-2104a1346316
+DTSTAMP:20261116T074139Z
+UID:6bb09841-192d-4fd4-b78e-32e050a9d12d
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  25-29\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (AoE
  ): 2024-02-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
@@ -2928,8 +2970,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20240208T235959
 DTEND;TZID="UTC-12:00":20240209T000059
-DTSTAMP:20261115T073556Z
-UID:03488b8a-e3b3-4baf-a5fe-dd2952a62cd9
+DTSTAMP:20261116T074139Z
+UID:c14f075b-6422-4b79-b007-f9e0ca9fb764
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  25-29\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (AoE
  ): 2024-02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
@@ -2942,8 +2984,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Abstract Deadline [first round]
 DTSTART;TZID="UTC-12:00":20240801T235959
 DTEND;TZID="UTC-12:00":20240802T000059
-DTSTAMP:20261115T073556Z
-UID:2cfdd304-6846-448a-95c5-c28b0583ec28
+DTSTAMP:20261116T074139Z
+UID:b265aefc-c32a-473e-b9ad-66e7d135136f
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2024-08-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -2956,8 +2998,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Paper Deadline [first round]
 DTSTART;TZID="UTC-12:00":20240808T235959
 DTEND;TZID="UTC-12:00":20240809T000059
-DTSTAMP:20261115T073556Z
-UID:e888e893-9dad-4d0c-8de9-6215e200e066
+DTSTAMP:20261116T074139Z
+UID:52b8edc2-7b6c-447d-849c-8d8751dfee86
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2024-08-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -2970,8 +3012,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Abstract Deadline [second round]
 DTSTART;TZID="UTC-12:00":20250203T235959
 DTEND;TZID="UTC-12:00":20250204T000059
-DTSTAMP:20261115T073556Z
-UID:e6255367-a78e-483d-ae73-b7d52e01d29f
+DTSTAMP:20261116T074139Z
+UID:09f1bd91-767d-416b-866c-607eeb934d46
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2025-02-03 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -2984,8 +3026,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Paper Deadline [second round]
 DTSTART;TZID="UTC-12:00":20250210T235959
 DTEND;TZID="UTC-12:00":20250211T000059
-DTSTAMP:20261115T073556Z
-UID:38053f11-b58f-4086-a76d-c8227a7d2890
+DTSTAMP:20261116T074139Z
+UID:392301cb-a2a0-42b0-bff0-c0ef480811a7
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2025-02-10 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -2998,8 +3040,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2026 Abstract Deadline [first round]
 DTSTART;TZID="UTC-12:00":20250724T235959
 DTEND;TZID="UTC-12:00":20250725T000059
-DTSTAMP:20261115T073556Z
-UID:a4cc921d-728a-45fc-9cf9-9b1da0cdb9e7
+DTSTAMP:20261116T074139Z
+UID:a51cf987-4241-40e4-803c-4f983807c4e3
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  10-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 20
  25-07-24 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF
@@ -3012,8 +3054,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2026 Paper Deadline [first round]
 DTSTART;TZID="UTC-12:00":20250731T235959
 DTEND;TZID="UTC-12:00":20250801T000059
-DTSTAMP:20261115T073556Z
-UID:cfa75715-0a70-4cc4-a740-b2b104c5df26
+DTSTAMP:20261116T074139Z
+UID:a04b4193-d83e-4665-b3b4-30c53a999e68
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  10-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 20
  25-07-31 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF
@@ -3026,8 +3068,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2026 Abstract Deadline [second round]
 DTSTART;TZID="UTC-12:00":20260201T235959
 DTEND;TZID="UTC-12:00":20260202T000059
-DTSTAMP:20261115T073556Z
-UID:d3461b1c-4dff-428e-ac4d-f09ab61a02a7
+DTSTAMP:20261116T074139Z
+UID:4872df11-3a1f-4a36-bfe4-f4d52c51c8fd
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  10-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 20
  26-02-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF
@@ -3040,8 +3082,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2026 Paper Deadline [second round]
 DTSTART;TZID="UTC-12:00":20260208T235959
 DTEND;TZID="UTC-12:00":20260209T000059
-DTSTAMP:20261115T073556Z
-UID:21f9aac1-1291-4bdc-b5f8-122816aca678
+DTSTAMP:20261116T074139Z
+UID:d8909039-1333-40a2-a0ae-fefafac7a0d4
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  10-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 20
  26-02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF
@@ -3054,8 +3096,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2027 Abstract Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20260719T235959
 DTEND;TZID="UTC-12:00":20260720T000059
-DTSTAMP:20261115T073556Z
-UID:9fddee24-9c4b-42df-9937-2c5b4636cf96
+DTSTAMP:20261116T074139Z
+UID:f2c0bf2c-0ab1-4ad4-b247-b5046f1b4ea5
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  1-5\, 2027\n📍 Location: San Jose\, California\, USA\n⏰ Original Deadl
  ine (AoE): 2026-07-19 23:59:59\nCategory: 数据库/数据挖掘/内容检
@@ -3068,8 +3110,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2027 Paper Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20260726T235959
 DTEND;TZID="UTC-12:00":20260727T000059
-DTSTAMP:20261115T073556Z
-UID:48ed2d8b-c066-400e-a521-667707ea9bb3
+DTSTAMP:20261116T074139Z
+UID:fac07c6b-4740-4ea3-8809-41d7f5b915f7
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  1-5\, 2027\n📍 Location: San Jose\, California\, USA\n⏰ Original Deadl
  ine (AoE): 2026-07-26 23:59:59\nCategory: 数据库/数据挖掘/内容检
@@ -3082,8 +3124,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2027 Rebuttal Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20261013T235959
 DTEND;TZID="UTC-12:00":20261014T000059
-DTSTAMP:20261115T073556Z
-UID:0a08f5a0-dbae-4804-9170-a959f0a33369
+DTSTAMP:20261116T074139Z
+UID:e9597f47-bbad-4075-9a7f-68ebc5469994
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  1-5\, 2027\n📍 Location: San Jose\, California\, USA\n⏰ Original Deadl
  ine (AoE): 2026-10-13 23:59:59\nCategory: 数据库/数据挖掘/内容检
@@ -3096,8 +3138,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2027 Decision Notification [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20261114T235959
 DTEND;TZID="UTC-12:00":20261115T000059
-DTSTAMP:20261115T073556Z
-UID:a6a38159-389e-4236-a4a3-da1a8bdd83a6
+DTSTAMP:20261116T074139Z
+UID:50e6ee5d-9134-45aa-8f7b-2de62fce8d4c
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  1-5\, 2027\n📍 Location: San Jose\, California\, USA\n⏰ Original Deadl
  ine (AoE): 2026-11-14 23:59:59\nCategory: 数据库/数据挖掘/内容检
@@ -3110,8 +3152,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2023 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20230626T235959
 DTEND;TZID="UTC-12:00":20230627T000059
-DTSTAMP:20261115T073556Z
-UID:a024efdb-2200-4767-9231-0d18ab4d9584
+DTSTAMP:20261116T074139Z
+UID:3d529e31-9f4c-4464-bdba-7ed39efb3a0d
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: November 26-29\, 2023\n📍 Location: Bei
  jing\, China\n⏰ Original Deadline (AoE): 2023-06-26 23:59:59\nCategory: 
@@ -3124,8 +3166,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230703T235959
 DTEND;TZID="UTC-12:00":20230704T000059
-DTSTAMP:20261115T073556Z
-UID:821c8104-2227-48e4-a833-701bd9eb5d0c
+DTSTAMP:20261116T074139Z
+UID:5bb8bbc6-500a-4b67-83f9-54d01b881111
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: November 26-29\, 2023\n📍 Location: Bei
  jing\, China\n⏰ Original Deadline (AoE): 2023-07-03 23:59:59\nCategory: 
@@ -3138,8 +3180,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2023 Decision Notification
 DTSTART;TZID="UTC-12:00":20230910T235959
 DTEND;TZID="UTC-12:00":20230911T000059
-DTSTAMP:20261115T073556Z
-UID:06c2b96f-0fe1-4167-b2f4-8a8875fc8a5e
+DTSTAMP:20261116T074139Z
+UID:081da630-f02e-41b5-b519-52d9078d7b4d
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: November 26-29\, 2023\n📍 Location: Bei
  jing\, China\n⏰ Original Deadline (AoE): 2023-09-10 23:59:59\nCategory: 
@@ -3152,8 +3194,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240701T235959
 DTEND;TZID="UTC-12:00":20240702T000059
-DTSTAMP:20261115T073556Z
-UID:dbc41524-9ff2-4121-9861-eb089745934d
+DTSTAMP:20261116T074139Z
+UID:2b909fc6-b672-4d48-b645-27e4b053fef2
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 9-12\, 2024\n📍 Location: Toky
  o\, Japan\n⏰ Original Deadline (AoE): 2024-07-01 23:59:59\nCategory: 数
@@ -3166,8 +3208,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20240710T235959
 DTEND;TZID="UTC-12:00":20240711T000059
-DTSTAMP:20261115T073556Z
-UID:182aeef5-8e79-4813-885e-a1ea372b0440
+DTSTAMP:20261116T074139Z
+UID:e789c97f-aa97-4b71-b7a6-2601aa92f4a9
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 9-12\, 2024\n📍 Location: Toky
  o\, Japan\n⏰ Original Deadline (AoE): 2024-07-10 23:59:59\nCategory: 数
@@ -3180,8 +3222,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2024 Decision Notification
 DTSTART;TZID="UTC-12:00":20240923T235959
 DTEND;TZID="UTC-12:00":20240924T000059
-DTSTAMP:20261115T073556Z
-UID:da4e86b0-9208-480c-ab71-6db1ce9083a7
+DTSTAMP:20261116T074139Z
+UID:5116d67d-a4ba-4f4e-9c2b-116354dd005f
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 9-12\, 2024\n📍 Location: Toky
  o\, Japan\n⏰ Original Deadline (AoE): 2024-09-23 23:59:59\nCategory: 数
@@ -3194,8 +3236,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2025 Abstract Deadline [Extended deadlines]
 DTSTART;TZID="UTC-12:00":20250715T235959
 DTEND;TZID="UTC-12:00":20250716T000059
-DTSTAMP:20261115T073556Z
-UID:ac49d32a-1153-40c8-8af4-abc1c9c6069c
+DTSTAMP:20261116T074139Z
+UID:61054fe4-57c8-492f-a621-2e1648a27e29
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 7-10\, 2025\n📍 Location: Xi'a
  n\, China\n⏰ Original Deadline (AoE): 2025-07-15 23:59:59\nCategory: 数
@@ -3208,8 +3250,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2025 Paper Deadline [Extended deadlines]
 DTSTART;TZID="UTC-12:00":20250722T235959
 DTEND;TZID="UTC-12:00":20250723T000059
-DTSTAMP:20261115T073556Z
-UID:b9ea082d-4e18-4101-99da-4c1839072ffc
+DTSTAMP:20261116T074139Z
+UID:8507faf1-ed64-442c-984d-210019bdcc85
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 7-10\, 2025\n📍 Location: Xi'a
  n\, China\n⏰ Original Deadline (AoE): 2025-07-22 23:59:59\nCategory: 数
@@ -3222,8 +3264,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2025 Decision Notification [Extended deadlines]
 DTSTART;TZID="UTC-12:00":20250912T235959
 DTEND;TZID="UTC-12:00":20250913T000059
-DTSTAMP:20261115T073556Z
-UID:2c4a9caf-b388-45da-b374-44a0e76dadc1
+DTSTAMP:20261116T074139Z
+UID:79dff5c8-59df-4618-b459-087b78b295a2
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 7-10\, 2025\n📍 Location: Xi'a
  n\, China\n⏰ Original Deadline (AoE): 2025-09-12 23:59:59\nCategory: 数
@@ -3236,8 +3278,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2026 Abstract Deadline [Extended deadlines]
 DTSTART;TZID="UTC-12:00":20260722T235959
 DTEND;TZID="UTC-12:00":20260723T000059
-DTSTAMP:20261115T073556Z
-UID:38a45c0e-3121-4acb-ab1b-7ce7f0cc85f8
+DTSTAMP:20261116T074139Z
+UID:73ac1ad3-9149-4b76-82e2-b2ea7d7ecfc7
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 13-15\, 2026\n📍 Location: Sin
  gapore\n⏰ Original Deadline (AoE): 2026-07-22 23:59:59\nCategory: 数据
@@ -3250,8 +3292,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2026 Paper Deadline [Extended deadlines]
 DTSTART;TZID="UTC-12:00":20260729T235959
 DTEND;TZID="UTC-12:00":20260730T000059
-DTSTAMP:20261115T073556Z
-UID:ba12a08e-0c5a-4d0e-b7c7-8a8b763b8dfc
+DTSTAMP:20261116T074139Z
+UID:3928fc0a-12b8-4130-b107-bcb59c4c7c8c
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 13-15\, 2026\n📍 Location: Sin
  gapore\n⏰ Original Deadline (AoE): 2026-07-29 23:59:59\nCategory: 数据
@@ -3264,8 +3306,8 @@ BEGIN:VEVENT
 SUMMARY:SIGIR-AP 2026 Decision Notification [Extended deadlines]
 DTSTART;TZID="UTC-12:00":20260923T235959
 DTEND;TZID="UTC-12:00":20260924T000059
-DTSTAMP:20261115T073556Z
-UID:854736af-d547-46aa-a65a-fc2bceddb2a3
+DTSTAMP:20261116T074139Z
+UID:8482d6a6-96bc-4a7d-84e2-cf136f21c0a2
 DESCRIPTION:International ACM SIGIR Conference on Information Retrieval in
   the Asia Pacific\n🗓️ Date: December 13-15\, 2026\n📍 Location: Sin
  gapore\n⏰ Original Deadline (AoE): 2026-09-23 23:59:59\nCategory: 数据
@@ -3278,8 +3320,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2021 Paper Deadline
 DTSTART;TZID="UTC-08:00":20201213T235959
 DTEND;TZID="UTC-08:00":20201214T000059
-DTSTAMP:20261115T073556Z
-UID:ae6ce12a-7800-4502-b6ee-c6a1d6f90479
+DTSTAMP:20261116T074139Z
+UID:00a64019-7a7e-461c-aaaf-fbc059bc89af
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 6-8\, 2021\n📍 Location: Online\n⏰ Original Deadline (U
  TC-8): 2020-12-13 23:59:59\nCategory: 计算机图形学与多媒体 (CG)
@@ -3292,8 +3334,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2022 Paper Deadline
 DTSTART;TZID="UTC-08:00":20211222T235959
 DTEND;TZID="UTC-08:00":20211223T000059
-DTSTAMP:20261115T073556Z
-UID:107c552d-1264-4efa-ad74-93b65b2e9933
+DTSTAMP:20261116T074139Z
+UID:99403d9f-3328-49a7-88a7-07197a2ba5b8
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 19-21\, 2022\n📍 Location: Taipei\, Taiwan\, China\n⏰ O
  riginal Deadline (UTC-8): 2021-12-22 23:59:59\nCategory: 计算机图形
@@ -3306,8 +3348,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2023 Paper Deadline
 DTSTART;TZID="UTC-08:00":20221222T235959
 DTEND;TZID="UTC-08:00":20221223T000059
-DTSTAMP:20261115T073556Z
-UID:c6e289f8-b1d9-435b-86f4-b9b4e7c3a19e
+DTSTAMP:20261116T074139Z
+UID:8a62a985-329e-4278-b4f7-4bd64044197c
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 11-14\, 2023\n📍 Location: Brisbane\, Australia\n⏰ Orig
  inal Deadline (UTC-8): 2022-12-22 23:59:59\nCategory: 计算机图形学
@@ -3320,8 +3362,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2024 Paper Deadline
 DTSTART:20231230T235959Z
 DTEND:20231231T000059Z
-DTSTAMP:20261115T073556Z
-UID:cb9a1acd-08dd-4eb7-a997-13e0efcf8572
+DTSTAMP:20261116T074139Z
+UID:43e1ae8f-9573-4b8a-bc30-243da78dbc2d
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 16-18\, 2024\n📍 Location: Niagara Falls\, ON\, Canada\n
  ⏰ Original Deadline (UTC+0): 2023-12-30 23:59:59\nCategory: 计算机图
@@ -3334,8 +3376,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2025 Paper Deadline
 DTSTART:20241223T235959Z
 DTEND:20241224T000059Z
-DTSTAMP:20261115T073556Z
-UID:a715413a-2efc-44c9-8243-e9853abe58e8
+DTSTAMP:20261116T074139Z
+UID:19e8739f-98e1-453d-a54c-b6c0f7310c15
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: June 30 - July 4\, 2025\n📍 Location: Nantes\, France\n⏰ Ori
  ginal Deadline (UTC+0): 2024-12-23 23:59:59\nCategory: 计算机图形学
@@ -3348,8 +3390,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20251231T235959
 DTEND;TZID="UTC-12:00":20260101T000059
-DTSTAMP:20261115T073556Z
-UID:a364e2c6-fec5-49f9-8a73-9992e2818546
+DTSTAMP:20261116T074139Z
+UID:d77ad28f-68f4-49ee-a307-73ad6ac0b22a
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 5-9\, 2026\n📍 Location: Bangkok\, Thailand\n⏰ Original
   Deadline (UTC-12): 2025-12-31 23:59:59\nCategory: 计算机图形学与
@@ -3362,8 +3404,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20261230T235959
 DTEND;TZID="UTC-12:00":20261231T000059
-DTSTAMP:20261115T073556Z
-UID:4ff2f9f4-66fa-4105-9b66-0817dccd0fbf
+DTSTAMP:20261116T074139Z
+UID:4320be15-c8d8-42a7-8bed-20c9eebc1945
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 13-17\, 2027\n📍 Location: Xiamen\, China\n⏰ Original D
  eadline (AoE): 2026-12-30 23:59:59\nCategory: 计算机图形学与多媒
@@ -3376,8 +3418,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2027 Rebuttal Deadline
 DTSTART;TZID="UTC-12:00":20270304T235959
 DTEND;TZID="UTC-12:00":20270305T000059
-DTSTAMP:20261115T073556Z
-UID:6bb0dab9-815d-4877-aee6-7dba5b1b2c52
+DTSTAMP:20261116T074139Z
+UID:a69c598a-8bb6-4133-84bc-7bbf040bed8e
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 13-17\, 2027\n📍 Location: Xiamen\, China\n⏰ Original D
  eadline (AoE): 2027-03-04 23:59:59\nCategory: 计算机图形学与多媒
@@ -3390,8 +3432,8 @@ BEGIN:VEVENT
 SUMMARY:ICME 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20270324T235959
 DTEND;TZID="UTC-12:00":20270325T000059
-DTSTAMP:20261115T073556Z
-UID:3b313774-a829-49b3-ad6d-c0a618486fe0
+DTSTAMP:20261116T074139Z
+UID:02a05c37-d46a-4823-a421-b6c797e2f1ee
 DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
  ️ Date: July 13-17\, 2027\n📍 Location: Xiamen\, China\n⏰ Original D
  eadline (AoE): 2027-03-24 23:59:59\nCategory: 计算机图形学与多媒
@@ -3404,8 +3446,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2021 Paper Deadline
 DTSTART;TZID="UTC-12:00":20201021T235959
 DTEND;TZID="UTC-12:00":20201022T000059
-DTSTAMP:20261115T073556Z
-UID:47f4f827-6426-4d6d-9197-82c448150264
+DTSTAMP:20261116T074139Z
+UID:9c5f6de6-f26b-40ec-a6a5-c57592f14337
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: June 8-11\, 2021\n📍 Location: Online\n⏰ 
  Original Deadline (AoE): 2020-10-21 23:59:59\nCategory: 计算机图形学
@@ -3419,8 +3461,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2022 Paper Deadline
 DTSTART:20211006T235959Z
 DTEND:20211007T000059Z
-DTSTAMP:20261115T073556Z
-UID:b5c9b7b8-3ca0-4fae-8af4-a60bf3000834
+DTSTAMP:20261116T074139Z
+UID:b9e19147-61ee-4cfb-be79-cdb1e37fd5e6
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: May 7-13 (Virtual) and May 24-27 (In-person)
  \, 2022\n📍 Location: Singapore and Online\n⏰ Original Deadline (UTC+0
@@ -3434,8 +3476,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20221026T235959
 DTEND;TZID="UTC-12:00":20221027T000059
-DTSTAMP:20261115T073556Z
-UID:1ceff9e6-fd1d-4667-8238-d396c9346596
+DTSTAMP:20261116T074139Z
+UID:41e56acc-0128-4e0a-a1f2-8d2a9afe7d0b
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: June 6-9\, 2023\n📍 Location: Rhodes Island
  \, Greece\n⏰ Original Deadline (UTC-12): 2022-10-26 23:59:59\nCategory: 
@@ -3449,8 +3491,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230906T235959
 DTEND;TZID="UTC-12:00":20230907T000059
-DTSTAMP:20261115T073556Z
-UID:5350cfe7-dd19-4c7a-b20d-ae70b2ebdd89
+DTSTAMP:20261116T074139Z
+UID:fe84e814-77f6-4008-8651-1fff0ea19a88
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: April 15-19\, 2024\n📍 Location: COEX\, Seo
  ul\, Korea\n⏰ Original Deadline (UTC-12): 2023-09-06 23:59:59\nCategory:
@@ -3464,8 +3506,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2025 Paper Deadline
 DTSTART;TZID="UTC-08:00":20240909T235959
 DTEND;TZID="UTC-08:00":20240910T000059
-DTSTAMP:20261115T073556Z
-UID:93bce930-b468-44cb-a9ae-c6d746f9181f
+DTSTAMP:20261116T074139Z
+UID:4fad92b2-c48a-4a44-8ac4-573b41d5ec6e
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: April 8-11\, 2025\n📍 Location: Hyderabad\,
   India\n⏰ Original Deadline (UTC-8): 2024-09-09 23:59:59\nCategory: 计
@@ -3479,8 +3521,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20250917T235959
 DTEND;TZID="UTC-12:00":20250918T000059
-DTSTAMP:20261115T073556Z
-UID:da024dec-9f71-4580-8d9f-a385b08ed009
+DTSTAMP:20261116T074139Z
+UID:7eb4012d-d876-4a65-8309-09e67fff409c
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: May 5-8\, 2026\n📍 Location: Barcelona\, Sp
  ain\n⏰ Original Deadline (UTC-12): 2025-09-17 23:59:59\nCategory: 计算
@@ -3494,8 +3536,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20260923T235959
 DTEND;TZID="UTC-12:00":20260924T000059
-DTSTAMP:20261115T073556Z
-UID:b3cd3522-e60f-452f-bded-511fcedbb4f9
+DTSTAMP:20261116T074139Z
+UID:70d913e8-4808-4b1f-91f2-182bb284b1df
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: May 16-21\, 2027\n📍 Location: Toronto\, Ca
  nada\n⏰ Original Deadline (UTC-12): 2026-09-23 23:59:59\nCategory: 计
@@ -3509,8 +3551,8 @@ BEGIN:VEVENT
 SUMMARY:ICASSP 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20270113T235959
 DTEND;TZID="UTC-12:00":20270114T000059
-DTSTAMP:20261115T073556Z
-UID:7f5652a8-3808-4165-9c4e-78d4cfa3af39
+DTSTAMP:20261116T074139Z
+UID:97dd0ec6-36a4-4e34-9ebb-34bd67d84e90
 DESCRIPTION:IEEE International Conference on Acoustics\, Speech\, and Sign
  al Processing\n🗓️ Date: May 16-21\, 2027\n📍 Location: Toronto\, Ca
  nada\n⏰ Original Deadline (UTC-12): 2027-01-13 23:59:59\nCategory: 计
@@ -3524,8 +3566,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2021 Paper Deadline
 DTSTART;TZID="UTC-08:00":20210303T235959
 DTEND;TZID="UTC-08:00":20210304T000059
-DTSTAMP:20261115T073556Z
-UID:8324a6af-09c6-41e5-9103-c2e52684da74
+DTSTAMP:20261116T074139Z
+UID:ca1e341e-0659-4ee1-8206-5e19247e00ea
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: November 17-19\, 2021\n📍 Location: Virtual\n⏰ Original 
  Deadline (UTC-8): 2021-03-03 23:59:59\nCategory: 计算机图形学与多
@@ -3538,8 +3580,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2022 Paper Deadline
 DTSTART;TZID="UTC-12:00":20220130T235959
 DTEND;TZID="UTC-12:00":20220131T000059
-DTSTAMP:20261115T073556Z
-UID:12b21457-7812-410c-9a16-9aef7dec3147
+DTSTAMP:20261116T074139Z
+UID:4cb30e6b-e626-47eb-b087-d3afc2b3ce57
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: June 27-30\, 2022\n📍 Location: Newark\, NJ\, USA and Onli
  ne\n⏰ Original Deadline (AoE): 2022-01-30 23:59:59\nCategory: 计算机
@@ -3552,8 +3594,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2023 Paper Deadline
 DTSTART;TZID="UTC-12:00":20230212T235959
 DTEND;TZID="UTC-12:00":20230213T000059
-DTSTAMP:20261115T073556Z
-UID:e8f42f78-7f97-43e6-98a3-3fe1da3d4df3
+DTSTAMP:20261116T074139Z
+UID:f68000d0-8063-4bdb-acd4-dbac93cba802
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: June 13-15\, 2023\n📍 Location: Thessaloniki\, Greece\n⏰
   Original Deadline (UTC-12): 2023-02-12 23:59:59\nCategory: 计算机图
@@ -3566,8 +3608,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2024 Paper Deadline
 DTSTART;TZID="UTC-12:00":20240216T235959
 DTEND;TZID="UTC-12:00":20240217T000059
-DTSTAMP:20261115T073556Z
-UID:94206748-d354-4f8b-8226-eb4b546c0847
+DTSTAMP:20261116T074139Z
+UID:dc0f10ef-552a-4be3-ad8d-c5082dc59ca0
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: June 11-13\, 2024\n📍 Location: Phuket\, Thailand\n⏰ Ori
  ginal Deadline (UTC-12): 2024-02-16 23:59:59\nCategory: 计算机图形学
@@ -3580,8 +3622,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2025 Paper Deadline
 DTSTART;TZID="UTC-12:00":20250223T235959
 DTEND;TZID="UTC-12:00":20250224T000059
-DTSTAMP:20261115T073556Z
-UID:4e267fec-8303-47ca-986d-91dfd8e078d1
+DTSTAMP:20261116T074139Z
+UID:fc20f795-4cc9-4418-a7b7-b5a4cd0014cd
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: July 1-3\, 2025\n📍 Location: Chicago\, USA\n⏰ Original 
  Deadline (UTC-12): 2025-02-23 23:59:59\nCategory: 计算机图形学与多
@@ -3594,8 +3636,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2026 Paper Deadline
 DTSTART;TZID="UTC-12:00":20260213T235959
 DTEND;TZID="UTC-12:00":20260214T000059
-DTSTAMP:20261115T073556Z
-UID:3e6d9571-cff7-4cfd-bf09-fd4b2715f208
+DTSTAMP:20261116T074139Z
+UID:ec399e04-10b4-41e7-868e-d21eecce417d
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: June 17-19\, 2026\n📍 Location: Amsterdam\, Netherlands\n
  ⏰ Original Deadline (UTC-12): 2026-02-13 23:59:59\nCategory: 计算机
@@ -3608,8 +3650,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2027 Paper Deadline
 DTSTART;TZID="UTC-12:00":20270131T235959
 DTEND;TZID="UTC-12:00":20270201T000059
-DTSTAMP:20261115T073556Z
-UID:ebcb2ab6-0e52-457b-8f4e-dcb88bdb2777
+DTSTAMP:20261116T074139Z
+UID:83a7c10e-fcd9-4b82-8091-e6a03bc9ae60
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: June 7-10\, 2027\n📍 Location: Singapore\n⏰ Original Dea
  dline (UTC-12): 2027-01-31 23:59:59\nCategory: 计算机图形学与多媒
@@ -3622,8 +3664,8 @@ BEGIN:VEVENT
 SUMMARY:ICMR 2027 Decision Notification
 DTSTART;TZID="UTC-12:00":20270401T235959
 DTEND;TZID="UTC-12:00":20270402T000059
-DTSTAMP:20261115T073556Z
-UID:5cef6ddd-5c35-4688-9c12-4041f71a04dd
+DTSTAMP:20261116T074139Z
+UID:5aad12ea-08a0-4762-a311-98f728d498c2
 DESCRIPTION:ACM SIGMM International Conference on Multimedia Retrieval\n
  🗓️ Date: June 7-10\, 2027\n📍 Location: Singapore\n⏰ Original Dea
  dline (UTC-12): 2027-04-01 23:59:59\nCategory: 计算机图形学与多媒
